@@ -12,7 +12,7 @@ Una base estructurada para proyectos que incorpora buenas prácticas y metodolog
 
 El objetivo principal es establecer una base sólida para el desarrollo de proyectos, promoviendo la adopción de estándares y metodologías que optimicen el proceso.
 
-### 1. Configuración del Repositorio en GitHub
+### Configuración del Repositorio en GitHub
 
 | Prioridad | Tamaño | Estimación |
 | :-------: | :----: | :--------: |
@@ -26,7 +26,7 @@ Configurar un repositorio en GitHub para gestionar el control de versiones.
 - **Protección de Ramas:** Configurar la rama `main` para evitar cambios sin revisión.
 - **Configuración del Repositorio:** Habilitar las `Issues` y, si es necesario, configurarlo como un `Template`.
 
-### 2. Redacción de `PROPOSAL.md`
+### Redacción de `PROPOSAL.md`
 
 | Prioridad | Tamaño | Estimación |
 | :-------: | :----: | :--------: |
@@ -42,7 +42,7 @@ Elaborar una propuesta de proyecto bien estructurada que contemple todos los asp
 - **Características Clave:** Describir las funcionalidades principales del proyecto, asegurando que sean relevantes, innovadoras y alineadas con las necesidades identificadas.
 - **Conclusión:** Resumir los puntos clave del análisis, reafirmando la importancia de la propuesta y su contribución al éxito del proyecto.
 
-### 3. Redacción de `ACTION_PLAN.md`
+### Redacción de `ACTION_PLAN.md`
 
 | Prioridad | Tamaño | Estimación |
 | :-------: | :----: | :--------: |
@@ -55,7 +55,7 @@ Desarrollar un plan de acción detallado que guíe la implementación del proyec
 - **Estructura del Plan:** Incluir una breve descripción, las tareas y un resumen general.
 - **Tareas y Subtareas:** Desglosar las tareas en subtareas manejables, asignando prioridad, tamaño y tiempo estimado en horas.
 
-### 4. Redacción de `KANBAN.md`
+### Redacción de `KANBAN.md`
 
 | Prioridad | Tamaño | Estimación |
 | :-------: | :----: | :--------: |
@@ -68,7 +68,7 @@ Crear un archivo `KANBAN.md` que sirva como base para el tablero Kanban del proy
 - **Estructura del Tablero:** Incluir secciones para tareas pendientes, por hacer, en proceso, bloqueadas y completadas.
 - **Descripción de Tareas:** Proporcionar una breve descripción de cada tarea y su estado actual.
 
-### 5. Archivo `.gitignore`
+### Archivo `.gitignore`
 
 | Prioridad | Tamaño | Estimación |
 | :-------: | :----: | :--------: |
@@ -76,7 +76,7 @@ Crear un archivo `KANBAN.md` que sirva como base para el tablero Kanban del proy
 
 Crear un archivo `.gitignore` para indicar a Git qué archivos o directorios deben ser ignorados.
 
-### 6. Archivos de GitHub
+### Archivos de GitHub
 
 | Prioridad | Tamaño | Estimación |
 | :-------: | :----: | :--------: |
@@ -89,7 +89,7 @@ Crear archivos de GitHub para gestionar la colaboración y las contribuciones.
 - **Plantillas de Issues:** Crear archivos `.github/ISSUE_TEMPLATE/bug_report.md` y `.github/ISSUE_TEMPLATE/feature_request.md` para reportar errores y solicitar nuevas características.
 - **Plantilla de Pull Requests:** Crear archivo `.github/PULL_REQUEST_TEMPLATE.md` con descripción, tipo de cambio y checklist.
 
-### 7. Archivos de Visual Studio Code
+### Archivos de Visual Studio Code
 
 | Prioridad | Tamaño | Estimación |
 | :-------: | :----: | :--------: |
@@ -102,7 +102,7 @@ Crear archivos de configuración para Visual Studio Code que faciliten el desarr
 - **Configuraciones:** Crear archivo `.vscode/settings.json` con reglas de formato y linting.
 - **Extensiones:** Crear archivo `.vscode/extensions.json` para recomendar extensiones útiles.
 
-### 8. Archivo `LICENSE.md`
+### Archivo `LICENSE.md`
 
 | Prioridad | Tamaño | Estimación |
 | :-------: | :----: | :--------: |horas
@@ -114,7 +114,7 @@ Crear archivos de licencia para el proyecto.
 - **Licencia MIT:** Crear archivo `LICENSE`.
 - **Licencia Privada:** Crear archivo `LICENSE.private`.
 
-### 9. Archivo `README.md`
+### Archivo `README.md`
 
 | Prioridad | Tamaño | Estimación |
 | :-------: | :----: | :--------: |
@@ -122,7 +122,7 @@ Crear archivos de licencia para el proyecto.
 
 Crear un archivo `README.md` que proporcione una descripción general del proyecto y enlaces a otros documentos.
 
-### 10. Archivo `CODE_OF_CONDUCT.md`
+### Archivo `CODE_OF_CONDUCT.md`
 
 | Prioridad | Tamaño | Estimación |
 | :-------: | :----: | :--------: |
@@ -130,7 +130,7 @@ Crear un archivo `README.md` que proporcione una descripción general del proyec
 
 Crear un archivo `CODE_OF_CONDUCT.md` basado en el [Contributor Covenant](https://www.contributor-covenant.org).
 
-### 11. Archivo `CONTRIBUTING.md`
+### Archivo `CONTRIBUTING.md`
 
 | Prioridad | Tamaño | Estimación |
 | :-------: | :----: | :--------: |
@@ -138,7 +138,7 @@ Crear un archivo `CODE_OF_CONDUCT.md` basado en el [Contributor Covenant](https:
 
 Crear un archivo `CONTRIBUTING.md` con la guía de contribución (fork, clonar, crear ramas, commits, pull requests).
 
-### 12. Archivo `cspell.json`
+### Archivo `cspell.json`
 
 | Prioridad | Tamaño | Estimación |
 | :-------: | :----: | :--------: |
@@ -146,7 +146,7 @@ Crear un archivo `CONTRIBUTING.md` con la guía de contribución (fork, clonar, 
 
 Crear un archivo `cspell.json` con configuraciones específicas para el corrector ortográfico `cspell`, incluyendo palabras personalizadas y configuraciones de idioma.
 
-### 13. Archivo `INSTALL.md`
+### Archivo `INSTALL.md`
 
 | Prioridad | Tamaño | Estimación |
 | :-------: | :----: | :--------: |
@@ -154,7 +154,7 @@ Crear un archivo `cspell.json` con configuraciones específicas para el correcto
 
 Crear un archivo `INSTALL.md` con instrucciones detalladas para la instalación del proyecto.
 
-### 14. Archivo `DEVELOP.md`
+### Archivo `DEVELOP.md`
 
 | Prioridad | Tamaño | Estimación |
 | :-------: | :----: | :--------: |
@@ -162,7 +162,7 @@ Crear un archivo `INSTALL.md` con instrucciones detalladas para la instalación 
 
 Crear un archivo `DEVELOP.md` con una guía para el desarrollo en un entorno local.
 
-### 15. Archivo `DEPLOY.md`
+### Archivo `DEPLOY.md`
 
 | Prioridad | Tamaño | Estimación |
 | :-------: | :----: | :--------: |
@@ -170,7 +170,7 @@ Crear un archivo `DEVELOP.md` con una guía para el desarrollo en un entorno loc
 
 Crear un archivo `DEPLOY.md` con una guía para el despliegue del proyecto en producción.
 
-### 16. Archivo `SECURITY.md`
+### Archivo `SECURITY.md`
 
 | Prioridad | Tamaño | Estimación |
 | :-------: | :----: | :--------: |

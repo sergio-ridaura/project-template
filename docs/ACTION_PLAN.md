@@ -12,7 +12,7 @@ A structured foundation for projects that incorporates best practices and recogn
 
 The main goal is to establish a solid foundation for project development, promoting the adoption of standards and methodologies that optimize the process.
 
-### 1. GitHub Repository Setup
+### GitHub Repository Setup
 
 | Priority | Size | Estimate |
 | :------: | :--: | :------: |
@@ -26,7 +26,7 @@ Set up a GitHub repository to manage version control.
 - **Branch Protection:** Configure the `main` branch to prevent changes without review.
 - **Repository Settings:** Enable `Issues` and, if necessary, configure it as a `Template`.
 
-### 2. Drafting `PROPOSAL.md`
+### Drafting `PROPOSAL.md`
 
 | Priority | Size | Estimate |
 | :------: | :--: | :------: |
@@ -42,7 +42,7 @@ Draft a well-structured project proposal that considers all key aspects to ensur
 - **Key Features:** Describe the project's main functionalities, ensuring they are relevant, innovative, and aligned with identified needs.
 - **Conclusion:** Summarize the key points of the analysis, reaffirming the importance of the proposal and its contribution to the project's success.
 
-### 3. Drafting `ACTION_PLAN.md`
+### Drafting `ACTION_PLAN.md`
 
 | Priority | Size | Estimate |
 | :------: | :--: | :------: |
@@ -55,7 +55,7 @@ Develop a detailed action plan to guide the project's implementation, ensuring t
 - **Plan Structure:** Include a brief description, tasks, and a general summary.
 - **Tasks and Subtasks:** Break down tasks into manageable subtasks, assigning priority, size, and estimated time in hours.
 
-### 4. Drafting `KANBAN.md`
+### Drafting `KANBAN.md`
 
 | Priority | Size | Estimate |
 | :------: | :--: | :------: |
@@ -68,7 +68,7 @@ Create a `KANBAN.md` file to serve as the project's Kanban board, facilitating t
 - **Board Structure:** Include sections for pending, to-do, in-progress, blocked, and completed tasks.
 - **Task Descriptions:** Provide a brief description of each task and its current status.
 
-### 5. `.gitignore` File
+### `.gitignore` File
 
 | Priority | Size | Estimate |
 | :------: | :--: | :------: |
@@ -76,7 +76,7 @@ Create a `KANBAN.md` file to serve as the project's Kanban board, facilitating t
 
 Create a `.gitignore` file to specify which files or directories Git should ignore.
 
-### 6. GitHub Files
+### GitHub Files
 
 | Priority | Size | Estimate |
 | :------: | :--: | :------: |
@@ -89,7 +89,7 @@ Create GitHub files to manage collaboration and contributions.
 - **Issue Templates:** Create `.github/ISSUE_TEMPLATE/bug_report.md` and `.github/ISSUE_TEMPLATE/feature_request.md` files for reporting bugs and requesting new features.
 - **Pull Request Template:** Create `.github/PULL_REQUEST_TEMPLATE.md` file with description, change type, and checklist.
 
-### 7. Visual Studio Code Files
+### Visual Studio Code Files
 
 | Priority | Size | Estimate |
 | :------: | :--: | :------: |
@@ -102,7 +102,7 @@ Create configuration files for Visual Studio Code to facilitate development and 
 - **Settings:** Create `.vscode/settings.json` file with formatting and linting rules.
 - **Extensions:** Create `.vscode/extensions.json` file to recommend useful extensions.
 
-### 8. `LICENSE.md` File
+### `LICENSE.md` File
 
 | Priority | Size | Estimate |
 | :------: | :--: | :------: |
@@ -115,7 +115,7 @@ Create license files for the project.
 - **MIT License:** Create `LICENSE` file.
 - **Private License:** Create `LICENSE.private` file.
 
-### 9. `README.md` File
+### `README.md` File
 
 | Priority | Size | Estimate |
 | :------: | :--: | :------: |
@@ -123,7 +123,7 @@ Create license files for the project.
 
 Create a `README.md` file that provides an overview of the project and links to other documents.
 
-### 10. `CODE_OF_CONDUCT.md` File
+### `CODE_OF_CONDUCT.md` File
 
 | Priority | Size | Estimate |
 | :------: | :--: | :------: |
@@ -131,7 +131,7 @@ Create a `README.md` file that provides an overview of the project and links to 
 
 Create a `CODE_OF_CONDUCT.md` file based on the [Contributor Covenant](https://www.contributor-covenant.org).
 
-### 11. `CONTRIBUTING.md` File
+### `CONTRIBUTING.md` File
 
 | Priority | Size | Estimate |
 | :------: | :--: | :------: |
@@ -139,7 +139,7 @@ Create a `CODE_OF_CONDUCT.md` file based on the [Contributor Covenant](https://w
 
 Create a `CONTRIBUTING.md` file with contribution guidelines (fork, clone, create branches, commits, pull requests).
 
-### 12. `cspell.json` File
+### `cspell.json` File
 
 | Priority | Size | Estimate |
 | :------: | :--: | :------: |
@@ -147,7 +147,7 @@ Create a `CONTRIBUTING.md` file with contribution guidelines (fork, clone, creat
 
 Create a `cspell.json` file with specific configurations for the `cspell` spell checker, including custom words and language settings.
 
-### 13. `INSTALL.md` File
+### `INSTALL.md` File
 
 | Priority | Size | Estimate |
 | :------: | :--: | :------: |
@@ -155,7 +155,7 @@ Create a `cspell.json` file with specific configurations for the `cspell` spell 
 
 Create an `INSTALL.md` file with detailed installation instructions for the project.
 
-### 14. `DEVELOP.md` File
+### `DEVELOP.md` File
 
 | Priority | Size | Estimate |
 | :------: | :--: | :------: |
@@ -163,7 +163,7 @@ Create an `INSTALL.md` file with detailed installation instructions for the proj
 
 Create a `DEVELOP.md` file with a guide for local development.
 
-### 15. `DEPLOY.md` File
+### `DEPLOY.md` File
 
 | Priority | Size | Estimate |
 | :------: | :--: | :------: |
@@ -171,7 +171,7 @@ Create a `DEVELOP.md` file with a guide for local development.
 
 Create a `DEPLOY.md` file with a guide for deploying the project to production.
 
-### 16. `SECURITY.md` File
+### `SECURITY.md` File
 
 | Priority | Size | Estimate |
 | :------: | :--: | :------: |
