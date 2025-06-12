@@ -1,0 +1,5 @@
+# Files and directories to ignore in the Git repository.
+
+.DS_Store
+.env
+temp
