@@ -17,7 +17,6 @@ Make sure to complete the following steps before submitting the PR:
 
 - [ ] I have followed the guides from CONTRIBUTING.md, and .
 - [ ] I have updated the README.md, if necessary.
-- [ ] I have tested my changes using shellcheck.
 - [ ] I have tested my changes in different environments.
 
 # Additional Information
