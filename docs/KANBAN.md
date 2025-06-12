@@ -1,4 +1,4 @@
-# 📋 Kanban Board v25.6.12
+# 📋 Kanban Board v25.6.13
 
 _Copyright (c) 2025. [Sergio Ridaura](https://github.com/sergio-ridaura)._
 
@@ -10,7 +10,6 @@ A structured foundation for projects that incorporates best practices and recogn
 
 ### 🕒 Pending
 
-- **`README.md` File**: Create a `README.md` file that provides an overview of the project and links to other documents.
 - **`CODE_OF_CONDUCT.md` File**: Create a `CODE_OF_CONDUCT.md` file based on the Contributor Covenant.
 - **`CONTRIBUTING.md` File**: Create a `CONTRIBUTING.md` file with contribution guidelines.
 - **`cspell.json` File**: Create a `cspell.json` file with specific configurations for the `cspell` spell checker.
@@ -41,3 +40,4 @@ _Currently, there are no tasks in this section._
 - **GitHub Files**: Create GitHub files to manage collaboration and contributions.
 - **Visual Studio Code Files**: Create configuration files for Visual Studio Code to facilitate development and collaboration.
 - **`LICENSE.md` File**: Create license files for the project.
+- **`README.md` File**: Create a `README.md` file that provides an overview of the project and links to other documents.
