@@ -10,7 +10,6 @@ Una base estructurada para proyectos que incorpora buenas prácticas y metodolog
 
 ### 🕒 Pendiente
 
-- **Archivo `CONTRIBUTING.md`**: Crear un archivo `CONTRIBUTING.md` con la guía de contribución.
 - **Archivo `cspell.json`**: Crear un archivo `cspell.json` con configuraciones específicas para el corrector ortográfico `cspell`.
 - **Archivo `INSTALL.md`**: Crear un archivo `INSTALL.md` con instrucciones detalladas para la instalación del proyecto.
 - **Archivo `DEVELOP.md`**: Crear un archivo `DEVELOP.md` con una guía para el desarrollo en un entorno local.
@@ -41,3 +40,4 @@ _Actualmente no hay tareas en esta sección._
 - **Archivo `LICENSE.md`**: Crear archivos de licencia para el proyecto.
 - **Archivo `README.md`**: Crear un archivo `README.md` que proporcione una descripción general del proyecto y enlaces a otros documentos.
 - **Archivo `CODE_OF_CONDUCT.md`**: Crear un archivo `CODE_OF_CONDUCT.md` basado en el Contributor Covenant.
+- **Archivo `CONTRIBUTING.md`**: Crear un archivo `CONTRIBUTING.md` con la guía de contribución.

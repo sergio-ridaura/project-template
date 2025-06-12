@@ -10,7 +10,6 @@ A structured foundation for projects that incorporates best practices and recogn
 
 ### 🕒 Pending
 
-- **`CONTRIBUTING.md` File**: Create a `CONTRIBUTING.md` file with contribution guidelines.
 - **`cspell.json` File**: Create a `cspell.json` file with specific configurations for the `cspell` spell checker.
 - **`INSTALL.md` File**: Create an `INSTALL.md` file with detailed installation instructions for the project.
 - **`DEVELOP.md` File**: Create a `DEVELOP.md` file with a guide for local development.
@@ -41,3 +40,4 @@ _Currently, there are no tasks in this section._
 - **`LICENSE.md` File**: Create license files for the project.
 - **`README.md` File**: Create a `README.md` file that provides an overview of the project and links to other documents.
 - **`CODE_OF_CONDUCT.md` File**: Create a `CODE_OF_CONDUCT.md` file based on the Contributor Covenant.
+- **`CONTRIBUTING.md` File**: Create a `CONTRIBUTING.md` file with contribution guidelines.
