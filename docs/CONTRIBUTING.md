@@ -19,7 +19,7 @@ You can collaborate in the following areas:
 
 - **Bug fixes**: Review issues labeled as `bug`.
 - **New features**: Explore issues labeled as `enhancement`.
-- **Documentation**: Improve or expand the content of the [README](README.md) and other documents.
+- **Documentation**: Improve or expand the content of the [README](../README.md) and other documents.
 - **Code review**: Participate in reviewing open Pull Requests.
 
 ### Best Practices
