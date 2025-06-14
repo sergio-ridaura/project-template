@@ -21,8 +21,6 @@ cd project-template
 
 Si prefieres crear un nuevo repositorio basado en esta plantilla, haz clic en el botón **"Use this template"** en la página del repositorio en [GitHub](https://github.com/sergio-ridaura/project-template). Esto generará un nuevo repositorio en tu cuenta, listo para personalizar.
 
-...
-
 ### Instalación Completada con Éxito
 
 ¡Felicidades! Has completado la instalación del proyecto. Ahora puedes comenzar a trabajar en él y personalizarlo según tus necesidades.

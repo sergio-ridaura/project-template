@@ -1,4 +1,4 @@
-# 🔧 Action Plan v25.6.12
+# 🔧 Action Plan v25.6.14
 
 _Copyright (c) 2025. [Sergio Ridaura](https://github.com/sergio-ridaura)._
 
@@ -179,8 +179,14 @@ Create a `DEPLOY.md` file with a guide for deploying the project to production.
 
 Create a `SECURITY.md` file with a guide for reporting security vulnerabilities.
 
----
+### `WORKFLOW.md` File
+
+| Priority | Size | Estimate |
+| :------: | :--: | :------: |
+|    P1    |  M   |    4     |
+
+Create a `WORKFLOW.md` file that describes the project's workflow, including development, review, and deployment stages.
 
 ## Summary
 
-The action plan consists of **16 tasks** with a total estimated effort of **52 points**.
+The action plan consists of **17 tasks** with a total estimated effort of **66 points**.

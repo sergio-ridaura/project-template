@@ -1,4 +1,4 @@
-# Project Template v25.6.13
+# Project Template v25.6.14
 
 _Copyright (c) 2025. [Sergio Ridaura](https://github.com/sergio-ridaura)._
 
@@ -31,4 +31,4 @@ Explore the following documents to learn more about how to use this template:
 
 **Full-Stack Developer** specializing in solutions with **[JavaScript](https://developer.mozilla.org/docs/Web/JavaScript)**.
 
-My favorite tools for developing web applications are **[TypeScript](https://www.typescriptlang.org/)**, **[Astro](https://astro.build/)**, **[React.js](https://react.dev/)**, **[Three.js](https://threejs.org/)**, **[Node.js](https://nodejs.org/)**, and **[MySQL](https://www.mysql.com/)**.
+My favorite tools for developing web applications are **[TypeScript](https://www.typescriptlang.org/)**, **[Astro](https://astro.build/)**, **[React](https://react.dev/)**, **[Three.js](https://threejs.org/)**, **[Node.js](https://nodejs.org/)**, and **[MySQL](https://www.mysql.com/)**.

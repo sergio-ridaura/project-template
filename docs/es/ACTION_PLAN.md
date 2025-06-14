@@ -1,4 +1,4 @@
-# 🔧 Plan de Acción v25.6.12
+# 🔧 Plan de Acción v25.6.14
 
 _Copyright (c) 2025. [Sergio Ridaura](https://github.com/sergio-ridaura)._
 
@@ -178,8 +178,14 @@ Crear un archivo `DEPLOY.md` con una guía para el despliegue del proyecto en pr
 
 Crear un archivo `SECURITY.md` con una guía para reportar vulnerabilidades de seguridad.
 
----
+### Archivo `WORKFLOW.md`
+
+| Prioridad | Tamaño | Estimación |
+| :-------: | :----: | :--------: |
+|    P1     |   M    |     4      |
+
+Crear un archivo `WORKFLOW.md` que describa el flujo de trabajo del proyecto, incluyendo las etapas de desarrollo, revisión y despliegue.
 
 ## Resumen
 
-El plan de acción consta de **16 tareas** con un esfuerzo total estimado de **52 puntos**.
+El plan de acción consta de **17 tareas** con un esfuerzo total estimado de **66 puntos**.

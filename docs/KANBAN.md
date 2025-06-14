@@ -1,4 +1,4 @@
-# 📋 Kanban Board v25.6.13
+# 📋 Kanban Board v25.6.14
 
 _Copyright (c) 2025. [Sergio Ridaura](https://github.com/sergio-ridaura)._
 
@@ -8,25 +8,25 @@ Base Template for Projects
 
 A structured foundation for projects that incorporates best practices and recognized methodologies, ensuring efficient and organized development.
 
-### 🕒 Pending
+### Pending
 
-- **`DEVELOP.md` File**: Create a `DEVELOP.md` file with a guide for local development.
+- **`WORKFLOW.md` File**: Create a `WORKFLOW.md` file that describes the project's workflow.
 - **`DEPLOY.md` File**: Create a `DEPLOY.md` file with a guide for deploying the project to production.
 - **`SECURITY.md` File**: Create a `SECURITY.md` file with a guide for reporting security vulnerabilities.
 
-### 🔨 To Do
+### To Do
 
 _Currently, there are no tasks in this section._
 
-### 🔄 In Progress
+### In Progress
 
 _Currently, there are no tasks in this section._
 
-### 🚧 Blocked
+### Blocked
 
 _Currently, there are no tasks in this section._
 
-### ✅ Completed
+### Completed
 
 - **GitHub Repository Setup**: Set up a GitHub repository to manage version control.
 - **Drafting `PROPOSAL.md`**: Draft a well-structured project proposal that considers all key aspects to ensure its feasibility and execution.
@@ -41,3 +41,4 @@ _Currently, there are no tasks in this section._
 - **`CONTRIBUTING.md` File**: Create a `CONTRIBUTING.md` file with contribution guidelines.
 - **`cspell.json` File**: Create a `cspell.json` file with specific configurations for the `cspell` spell checker.
 - **`INSTALL.md` File**: Create an `INSTALL.md` file with detailed installation instructions for the project.
+- **`DEVELOP.md` File**: Create a `DEVELOP.md` file with a guide for local development.
