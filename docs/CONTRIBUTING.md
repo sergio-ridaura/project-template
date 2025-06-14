@@ -6,12 +6,12 @@ Thank you for considering contributing to our project! Here you will find all th
 
 ### Prerequisites
 
-Before starting, make sure you meet the following requirements:
+Before you begin, make sure you meet the following requirements:
 
 - Have [Git](https://git-scm.com/) installed on your system.
 - Have an account on [GitHub](https://github.com).
 
-_**Note:** For more details, refer to the [INSTALL](INSTALL.md) document._
+_**Note:** For more details, check the [INSTALL](INSTALL.md) document._
 
 ### How Can You Contribute?
 
@@ -19,7 +19,7 @@ You can collaborate in the following areas:
 
 - **Bug fixes**: Review issues labeled as `bug`.
 - **New features**: Explore issues labeled as `enhancement`.
-- **Documentation**: Improve or expand the content of the [README](../README.md) and other documents.
+- **Documentation**: Improve or expand the content of the [README](README.md) and other documents.
 - **Code review**: Participate in reviewing open Pull Requests.
 
 ### Best Practices
