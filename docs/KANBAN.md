@@ -14,7 +14,6 @@ _Currently, there are no tasks in this section._
 
 ### To Do
 
-- **`DEPLOY.md` File**: Create a `DEPLOY.md` file with a guide for deploying the project to production.
 - **`SECURITY.md` File**: Create a `SECURITY.md` file with a guide for reporting security vulnerabilities.
 
 ### In Progress
@@ -42,3 +41,4 @@ _Currently, there are no tasks in this section._
 - **`INSTALL.md` File**: Create an `INSTALL.md` file with detailed installation instructions for the project.
 - **`DEVELOP.md` File**: Create a `DEVELOP.md` file with a guide for local development.
 - **`WORKFLOW.md` File**: Create a `WORKFLOW.md` file that describes the project's workflow.
+- **`DEPLOY.md` File**: Create a `DEPLOY.md` file with a guide for deploying the project to production.
