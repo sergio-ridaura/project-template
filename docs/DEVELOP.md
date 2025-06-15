@@ -36,7 +36,7 @@ Remember that this document is a starting point that you can adapt according to 
 
 #### Task Management
 
-Adapt the `KANBAN.md` document to organize project tasks visually and efficiently, using a Kanban approach. This method allows you to manage workflow by moving tasks between columns representing their current status, such as "Pending," "In Progress," and "Completed."
+Adapt the `KANBAN.md` document to organize project tasks visually and efficiently using a Kanban approach. This method allows you to manage workflow by moving tasks between columns that represent their current status, such as "Backlog," "To Do," "In Progress," "Blocked," and "Done."
 
 To optimize management, include key information in each task, such as start and end dates, assigned responsible persons, and involved teams. This provides a clear view of progress and responsibilities, facilitating coordination and tracking.
 

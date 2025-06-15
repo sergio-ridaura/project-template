@@ -36,7 +36,7 @@ Recuerda que este documento es un punto de partida que puedes adaptar según las
 
 #### Gestión de tareas
 
-Adapta el documento `KANBAN.md` para organizar las tareas del proyecto de manera visual y eficiente, utilizando un enfoque Kanban. Este método permite gestionar el flujo de trabajo moviendo las tareas entre columnas que representan su estado actual, como "Pendiente", "En progreso" y "Completado".
+Adapta el documento `KANBAN.md` para organizar las tareas del proyecto de manera visual y eficiente, utilizando un enfoque Kanban. Este método permite gestionar el flujo de trabajo moviendo las tareas entre columnas que representan su estado actual, como "Pendiente", "Por hacer", "En progreso", "Bloqueado" y "Completado".
 
 Para optimizar la gestión, incluye información clave en cada tarea, como fechas de inicio y finalización, responsables asignados, y equipos involucrados. Esto proporciona una visión clara del progreso y las responsabilidades, facilitando la coordinación y el seguimiento.
 

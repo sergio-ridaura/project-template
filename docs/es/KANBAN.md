@@ -1,4 +1,4 @@
-# 📋 Tablero Kanban v25.6.14
+# 📋 Tablero Kanban v25.6.15
 
 _Copyright (c) 2025. [Sergio Ridaura](https://github.com/sergio-ridaura)._
 
@@ -10,13 +10,12 @@ Una base estructurada para proyectos que incorpora buenas prácticas y metodolog
 
 ### Pendiente
 
-- **Archivo `WORKFLOW.md`**: Crear un archivo `WORKFLOW.md` que describa el flujo de trabajo del proyecto.
-- **Archivo `DEPLOY.md`**: Crear un archivo `DEPLOY.md` con una guía para el despliegue del proyecto en producción.
-- **Archivo `SECURITY.md`**: Crear un archivo `SECURITY.md` con una guía para reportar vulnerabilidades de seguridad.
+_Actualmente no hay tareas en esta sección._
 
 ### Por hacer
 
-_Actualmente no hay tareas en esta sección._
+- **Archivo `DEPLOY.md`**: Crear un archivo `DEPLOY.md` con una guía para el despliegue del proyecto en producción.
+- **Archivo `SECURITY.md`**: Crear un archivo `SECURITY.md` con una guía para reportar vulnerabilidades de seguridad.
 
 ### En Proceso
 
@@ -42,3 +41,4 @@ _Actualmente no hay tareas en esta sección._
 - **Archivo `cspell.json`**: Crear un archivo `cspell.json` con configuraciones específicas para el corrector ortográfico `cspell`.
 - **Archivo `INSTALL.md`**: Crear un archivo `INSTALL.md` con instrucciones detalladas para la instalación del proyecto.
 - **Archivo `DEVELOP.md`**: Crear un archivo `DEVELOP.md` con una guía para el desarrollo en un entorno local.
+- **Archivo `WORKFLOW.md`**: Crear un archivo `WORKFLOW.md` que describa el flujo de trabajo del proyecto.
