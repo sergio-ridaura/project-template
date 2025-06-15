@@ -1,4 +1,4 @@
-# Project Template v25.6.14
+# Project Template v25.6.15
 
 _Copyright (c) 2025. [Sergio Ridaura](https://github.com/sergio-ridaura)._
 
