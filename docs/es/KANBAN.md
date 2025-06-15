@@ -14,7 +14,6 @@ _Actualmente no hay tareas en esta sección._
 
 ### Por hacer
 
-- **Archivo `DEPLOY.md`**: Crear un archivo `DEPLOY.md` con una guía para el despliegue del proyecto en producción.
 - **Archivo `SECURITY.md`**: Crear un archivo `SECURITY.md` con una guía para reportar vulnerabilidades de seguridad.
 
 ### En Proceso
@@ -42,3 +41,4 @@ _Actualmente no hay tareas en esta sección._
 - **Archivo `INSTALL.md`**: Crear un archivo `INSTALL.md` con instrucciones detalladas para la instalación del proyecto.
 - **Archivo `DEVELOP.md`**: Crear un archivo `DEVELOP.md` con una guía para el desarrollo en un entorno local.
 - **Archivo `WORKFLOW.md`**: Crear un archivo `WORKFLOW.md` que describa el flujo de trabajo del proyecto.
+- **Archivo `DEPLOY.md`**: Crear un archivo `DEPLOY.md` con una guía para el despliegue del proyecto en producción.
