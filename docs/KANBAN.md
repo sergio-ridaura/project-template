@@ -14,7 +14,7 @@ _Currently, there are no tasks in this section._
 
 ### To Do
 
-- **`SECURITY.md` File**: Create a `SECURITY.md` file with a guide for reporting security vulnerabilities.
+_Currently, there are no tasks in this section._
 
 ### In Progress
 
@@ -42,3 +42,4 @@ _Currently, there are no tasks in this section._
 - **`DEVELOP.md` File**: Create a `DEVELOP.md` file with a guide for local development.
 - **`WORKFLOW.md` File**: Create a `WORKFLOW.md` file that describes the project's workflow.
 - **`DEPLOY.md` File**: Create a `DEPLOY.md` file with a guide for deploying the project to production.
+- **`SECURITY.md` File**: Create a `SECURITY.md` file with a guide for reporting security vulnerabilities.
