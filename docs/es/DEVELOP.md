@@ -2,7 +2,7 @@
 
 _Copyright (c) 2025. [Sergio Ridaura](https://github.com/sergio-ridaura)._
 
-El desarrollo de proyectos utilizando esta plantilla base está diseñado para ser eficiente, estructurado y profesional. La plantilla incorpora buenas prácticas y metodologías reconocidas como **GitHub Flow** y **Kanban**, garantizando un flujo de trabajo colaborativo y organizado.
+El desarrollo de proyectos utilizando esta plantilla base está diseñado para ser eficiente, estructurado y profesional. La plantilla incorpora buenas prácticas y metodologías reconocidas como [GitHub Flow](https://docs.github.com/get-started/using-github/github-flow) y [Kanban](https://asana.com/resources/what-is-kanban), garantizando un flujo de trabajo colaborativo y organizado.
 
 ### Configuración inicial
 
