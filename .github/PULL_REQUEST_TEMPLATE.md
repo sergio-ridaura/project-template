@@ -1,24 +1,24 @@
 # Description
 
-Please include a summary of the changes made and the issue that is being resolved. Provide enough context for reviewers to understand the purpose of this Pull Request.
+Provide a clear and concise summary of the changes made in this Pull Request, as well as the issue or need it addresses. Add the necessary context so reviewers can understand the purpose and scope of the proposal.
 
-# Type of Change
+# Type of change
 
-Select the type of change made by marking with an "X":
+Mark with an "X" the option that applies:
 
 - [ ] Bug fix
 - [ ] New feature
-- [ ] Documentation improvements
-- [ ] Other (describe):
+- [ ] Documentation improvement
+- [ ] Other (please specify):
 
 # Checklist
 
-Make sure to complete the following steps before submitting the PR:
+Before submitting the Pull Request, make sure you have completed the following:
 
-- [ ] I have followed the guides from CONTRIBUTING.md, and .
-- [ ] I have updated the README.md, if necessary.
-- [ ] I have tested my changes in different environments.
+- [ ] I have followed the guidelines and best practices defined in the repository.
+- [ ] I have updated the documentation (README.md and other documents) if necessary.
+- [ ] I have verified that the changes work correctly in different environments.
 
-# Additional Information
+# Additional information
 
-Include any other relevant details that might help the reviewers.
+Include any relevant information that may help reviewers better understand the context, decisions made, or any important aspect related to the changes proposed.

@@ -1,16 +1,16 @@
-# 🔧 Plan de Acción v25.6.14
+# 🔧 Plan de Acción v25.6.19
 
 _Copyright (c) 2025. [Sergio Ridaura](https://github.com/sergio-ridaura)._
 
 ## Project Template
 
-Plantilla Base para Proyectos
+Plantilla base para iniciar proyectos de software de forma rápida y eficiente.
 
-Una base estructurada para proyectos que incorpora buenas prácticas y metodologías reconocidas, garantizando un desarrollo eficiente y organizado.
+Configurar manualmente un proyecto puede ser repetitivo y propenso a errores. Por eso, esta propuesta ofrece una estructura predefinida con los archivos esenciales, ayudando a optimizar el tiempo y reducir posibles fallos.
 
 ## Tareas
 
-El objetivo principal es establecer una base sólida para el desarrollo de proyectos, promoviendo la adopción de estándares y metodologías que optimicen el proceso.
+El propósito fundamental de este plan de acción es proporcionar una base robusta que agilice la creación de repositorios en [GitHub](https://github.com/) mediante el uso de [Visual Studio Code](https://code.visualstudio.com/). Se busca simplificar la configuración inicial, estandarizar procesos y fomentar buenas prácticas desde el inicio del proyecto. A continuación, se describen las tareas a ejecutar:
 
 ### Configuración del Repositorio en GitHub
 
@@ -186,6 +186,14 @@ Crear un archivo `SECURITY.md` con una guía para reportar vulnerabilidades de s
 
 Crear un archivo `WORKFLOW.md` que describa el flujo de trabajo del proyecto, incluyendo las etapas de desarrollo, revisión y despliegue.
 
+### Actualización de Documentación
+
+| Prioridad | Tamaño | Estimación |
+| :-------: | :----: | :--------: |
+|    P1     |   M    |     4      |
+
+Mejorar y actualizar varios archivos de documentación para mejorar la comprensión y uso del proyecto.
+
 ## Resumen
 
-El plan de acción consta de **17 tareas** con un esfuerzo total estimado de **66 puntos**.
+El plan de acción consta de **18 tareas** con un esfuerzo total estimado de **70 puntos**.
