@@ -1,4 +1,4 @@
-# 🌟 Propuesta v25.6.19
+# 🌟 Propuesta v25.6.24
 
 _Copyright (c) 2025. [Sergio Ridaura](https://github.com/sergio-ridaura)._
 
@@ -10,7 +10,7 @@ Plantilla base para iniciar proyectos de software de forma rápida y eficiente.
 
 Configurar un proyecto desde cero puede ser una tarea compleja, repetitiva y propensa a errores. Este proceso inicial consume tiempo valioso que podría dedicarse al desarrollo de funcionalidades clave. Para abordar este desafío, proponemos una plantilla base que simplifica y optimiza la configuración inicial de proyectos, promoviendo buenas prácticas desde el principio.
 
-Esta plantilla está diseñada para ser utilizada con **[Visual Studio Code](https://code.visualstudio.com/)** y se integra perfectamente con **[GitHub](https://github.com/)
+Esta plantilla está diseñada para ser utilizada con **[Visual Studio Code](https://code.visualstudio.com/)** y se integra perfectamente con **[GitHub](https://github.com/)/**, facilitando la creación de repositorios y la gestión del código fuente. Al adoptar esta estructura predefinida, los equipos de desarrollo pueden enfocarse en lo que realmente importa: construir soluciones innovadoras y de alta calidad.
 
 ### Objetivos
 

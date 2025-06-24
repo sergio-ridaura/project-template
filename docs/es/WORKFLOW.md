@@ -2,7 +2,7 @@
 
 _Copyright (c) 2025. [Sergio Ridaura](https://github.com/sergio-ridaura)._
 
-El flujo de trabajo propuesto para el desarrollo de proyectos con esta plantilla está diseñado para brindar claridad, estructura y eficiencia, facilitando una implementación alineada con los objetivos del equipo. Esta plantilla integra buenas prácticas y metodologías reconocidas, como **GitHub Flow** y **Kanban**, lo que garantiza un proceso colaborativo, organizado y adaptable.
+El flujo de trabajo propuesto para el desarrollo de proyectos con esta plantilla está diseñado para brindar claridad, estructura y eficiencia, facilitando una implementación alineada con los objetivos del equipo. Esta plantilla integra buenas prácticas y metodologías reconocidas, como **[GitHub Flow](https://docs.github.com/get-started/using-github/github-flow)** y **[Kanban](https://asana.com/resources/what-is-kanban)**, lo que garantiza un proceso colaborativo, organizado y adaptable.
 
 Utiliza este flujo como una guía flexible que puedes personalizar según las características de tu proyecto. Ajusta las etapas y los detalles conforme a las necesidades de tu equipo y los objetivos específicos del desarrollo.
 
@@ -12,7 +12,9 @@ Tras iniciar el proyecto y finalizar la **Configuración inicial** (ver [DEVELOP
 
 #### 1. Selección de Tareas
 
-En esta etapa, el equipo revisa y selecciona las tareas que se abordarán a continuación. Las tareas elegidas se trasladan a la columna **Por hacer** del tablero Kanban. Es esencial que cada tarea esté claramente definida, priorizada y documentada en el [Plan de Acción](ACTION_PLAN.md), lo que asegura una comprensión compartida, facilita el seguimiento y permite una ejecución eficiente por parte de los desarrolladores.
+En esta etapa, el equipo revisa y selecciona las tareas que se abordarán a en el ciclo. Las tareas elegidas se trasladan a la columna **Por hacer** del tablero Kanban. Es esencial que cada tarea esté claramente definida, priorizada y documentada en el [Plan de Acción](ACTION_PLAN.md), lo que asegura una comprensión compartida, facilita el seguimiento y permite una ejecución eficiente por parte de los desarrolladores.
+
+Si una tarea no está completamente definida o requiere más información, se puede mover a la columna **Pendiente** del tablero Kanban. Esto permite que el equipo identifique rápidamente las tareas que necesitan más detalles antes de ser abordadas.
 
 #### 2. Desarrollo
 
