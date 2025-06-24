@@ -1,12 +1,12 @@
-# Project Template v25.6.19
+# Project Template v25.6.24
 
 _Copyright (c) 2025. [Sergio Ridaura](https://github.com/sergio-ridaura)._
 
 A base template to quickly and efficiently start software projects.
 
-This template is designed to make it easier to create repositories on [GitHub](https://github.com/) using [Visual Studio Code](https://code.visualstudio.com/), simplifying the initial setup and promoting best practices from the very beginning.
+Setting up a project from scratch can be a complex, repetitive, and error-prone task. This initial process consumes valuable time that could be dedicated to developing key features. To address this challenge, we propose a base template that simplifies and streamlines the initial project setup, promoting best practices from the start.
 
-Manually configuring a project can be repetitive and error-prone. That’s why this proposal offers a predefined structure with essential files, helping to optimize time and reduce possible mistakes.
+This template is designed to be used with **[Visual Studio Code](https://code.visualstudio.com/)** and integrates seamlessly with **[GitHub](https://github.com/)**, making it easy to create repositories and manage source code. By adopting this predefined structure, development teams can focus on what really matters: building innovative and high-quality solutions.
 
 ## Documentation
 
