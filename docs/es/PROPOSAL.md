@@ -1,4 +1,4 @@
-# 🌟 Propuesta v25.6.24
+# 🌟 Propuesta v25.6.25
 
 _Copyright (c) 2025. [Sergio Ridaura](https://github.com/sergio-ridaura)._
 
@@ -29,8 +29,9 @@ Esta plantilla está diseñada para ser utilizada con **[Visual Studio Code](htt
 ### Características Clave
 
 1. **Integración con GitHub**: Gestión de código optimizada y soporte para flujos de trabajo colaborativos.
-2. **Documentación Completa**: Incluye guías detalladas para instalación, desarrollo, despliegue, contribuciones y más.
-3. **Metodologías Reconocidas**: Uso de prácticas como GitHub Flow y Kanban para un desarrollo estructurado.
+2. **Integración con Visual Studio Code**: Configuración lista para usar, incluyendo extensiones recomendadas y configuraciones personalizadas.
+3. **Documentación Completa**: Incluye guías detalladas para instalación, desarrollo, despliegue, contribuciones y más.
+4. **Metodologías Reconocidas**: Uso de prácticas como GitHub Flow y Kanban para un desarrollo estructurado.
 
 ### Conclusión
 
