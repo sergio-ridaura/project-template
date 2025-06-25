@@ -1,8 +1,8 @@
-# Project Template v25.6.24
+# Project Template v25.6.25
 
 _Copyright (c) 2025. [Sergio Ridaura](https://github.com/sergio-ridaura)._
 
-A base template to quickly and efficiently start software projects.
+Base template for starting software projects quickly and efficiently.
 
 Setting up a project from scratch can be a complex, repetitive, and error-prone task. This initial process consumes valuable time that could be dedicated to developing key features. To address this challenge, we propose a base template that simplifies and streamlines the initial project setup, promoting best practices from the start.
 
