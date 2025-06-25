@@ -116,6 +116,8 @@ Los detalles completos se encuentran en el documento [WORKFLOW.md](WORKFLOW.md),
 
 Este flujo de trabajo es una guía general que puedes personalizar según las necesidades específicas de tu proyecto. Asegúrate de ajustar las etapas y detalles para reflejar la naturaleza única de tu equipo y los objetivos del desarrollo.
 
+Procura mantener actualizado el flujo de trabajo a medida que el proyecto avanza, incorporando lecciones aprendidas y adaptaciones necesarias. Esto no solo mejora la eficiencia del equipo, sino que también fomenta una cultura de mejora continua y colaboración.
+
 ### Conclusión
 
 Este flujo de trabajo sirve como una guía integral para el desarrollo de proyectos con esta plantilla base, facilitando la organización y eficiencia en cada etapa, desde la definición de objetivos hasta la implementación y el mantenimiento. 

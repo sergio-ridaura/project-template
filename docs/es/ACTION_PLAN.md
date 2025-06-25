@@ -1,4 +1,4 @@
-# 🔧 Plan de Acción v25.6.19
+# 🔧 Plan de Acción v25.6.25
 
 _Copyright (c) 2025. [Sergio Ridaura](https://github.com/sergio-ridaura)._
 
@@ -194,7 +194,7 @@ Crear un archivo `WORKFLOW.md` que describa el flujo de trabajo del proyecto, in
 | :-------: | :----: | :--------: |
 |    P1     |   M    |     4      |
 
-Mejorar y actualizar varios archivos de documentación para mejorar la comprensión y uso del proyecto.
+Mejorar y actualizar varios archivos de documentación para mejorar la comprensión y uso del proyecto. Mantén actualizado el proyecto a partir de los conocimientos adquiridos en el curso.
 
 ## Resumen
 

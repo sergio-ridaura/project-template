@@ -1,10 +1,10 @@
-# 🔧 Action Plan v25.6.19
+# 🔧 Action Plan v25.6.25
 
 _Copyright (c) 2025. [Sergio Ridaura](https://github.com/sergio-ridaura)._
 
 ## Project Template
 
-Base template to quickly and efficiently start software projects.
+Base template to start Rust projects quickly and efficiently.
 
 Setting up a project from scratch can be a complex, repetitive, and error-prone task. This initial process consumes valuable time that could be dedicated to developing key features. To address this challenge, we propose a base template that simplifies and optimizes the initial project setup, promoting best practices from the start.
 
@@ -194,7 +194,7 @@ Create a `WORKFLOW.md` file describing the project's workflow, including develop
 | :------: | :--: | :------: |
 |    P1    |  M   |    4     |
 
-Improve and update various documentation files to enhance understanding and use of the project.
+Improve and update various documentation files to enhance the understanding and usability of the project. Keep the project up to date based on the knowledge acquired during the course.
 
 ## Summary
 
