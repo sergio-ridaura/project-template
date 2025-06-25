@@ -116,6 +116,8 @@ Full details can be found in the [WORKFLOW.md](WORKFLOW.md) document, which desc
 
 This workflow is a general guide that you can customize according to the specific needs of your project. Be sure to adjust the stages and details to reflect the unique nature of your team and development goals.
 
+Try to keep the workflow updated as the project progresses, incorporating lessons learned and necessary adaptations. This not only improves team efficiency but also fosters a culture of continuous improvement and collaboration.
+
 ### Conclusion
 
 This workflow serves as a comprehensive guide for developing projects with this base template, facilitating organization and efficiency at every stage, from defining objectives to implementation and maintenance.

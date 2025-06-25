@@ -1,10 +1,10 @@
-# 🌟 Proposal v25.6.24
+# 🌟 Proposal v25.6.25
 
 _Copyright (c) 2025. [Sergio Ridaura](https://github.com/sergio-ridaura)._
 
 ## Project Template
 
-Base template to start software projects quickly and efficiently.
+Base template to start Rust projects quickly and efficiently.
 
 ### Introduction
 

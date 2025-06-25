@@ -1,10 +1,10 @@
-# 📋 Kanban Board v25.6.19
+# 📋 Kanban Board v25.6.25
 
 _Copyright (c) 2025. [Sergio Ridaura](https://github.com/sergio-ridaura)._
 
 ## Project Template
 
-A base template to quickly and efficiently start software projects.
+Base template to start Rust projects quickly and efficiently.
 
 A structured foundation for projects that incorporates best practices and recognized methodologies, ensuring efficient and organized development.
 

@@ -1,4 +1,4 @@
-# 📋 Tablero Kanban v25.6.19
+# 📋 Tablero Kanban v25.6.25
 
 _Copyright (c) 2025. [Sergio Ridaura](https://github.com/sergio-ridaura)._
 
