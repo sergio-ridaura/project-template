@@ -1,6 +1,8 @@
-## 🚦 Flujo de trabajo
+# Flujo de trabajo v25.6.29
 
 _Copyright (c) 2025. [Sergio Ridaura](https://github.com/sergio-ridaura)._
+
+## Introducción
 
 El flujo de trabajo propuesto para el desarrollo de proyectos con esta plantilla está diseñado para brindar claridad, estructura y eficiencia, facilitando una implementación alineada con los objetivos del equipo. Esta plantilla integra buenas prácticas y metodologías reconocidas, como **[GitHub Flow](https://docs.github.com/get-started/using-github/github-flow)** y **[Kanban](https://asana.com/resources/what-is-kanban)**, lo que garantiza un proceso colaborativo, organizado y adaptable.
 

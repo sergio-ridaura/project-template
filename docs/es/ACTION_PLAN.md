@@ -1,18 +1,16 @@
-# 🔧 Plan de Acción v25.6.25
+# Plan de Acción
 
 _Copyright (c) 2025. [Sergio Ridaura](https://github.com/sergio-ridaura)._
 
-## Project Template
+## Project Template v25.6.29
 
 Plantilla base para iniciar proyectos de software de forma rápida y eficiente.
 
-Configurar un proyecto desde cero puede ser una tarea compleja, repetitiva y propensa a errores. Este proceso inicial consume tiempo valioso que podría dedicarse al desarrollo de funcionalidades clave. Para abordar este desafío, proponemos una plantilla base que simplifica y optimiza la configuración inicial de proyectos, promoviendo buenas prácticas desde el principio.
-
-Esta plantilla está diseñada para ser utilizada con **[Visual Studio Code](https://code.visualstudio.com/)** y se integra perfectamente con **[GitHub](https://github.com/)/**, facilitando la creación de repositorios y la gestión del código fuente. Al adoptar esta estructura predefinida, los equipos de desarrollo pueden enfocarse en lo que realmente importa: construir soluciones innovadoras y de alta calidad.
+Configurar un proyecto desde cero suele ser complejo y repetitivo, restando tiempo al desarrollo real. Esta plantilla base agiliza la configuración inicial en **[GitHub](https://github.com/)** y **[Visual Studio Code](https://code.visualstudio.com/)**, permitiendo a los equipos centrarse en crear soluciones de calidad desde el inicio.
 
 ## Tareas
 
-El propósito fundamental de este plan de acción es proporcionar una base robusta que agilice la creación de repositorios en [GitHub](https://github.com/) mediante el uso de [Visual Studio Code](https://code.visualstudio.com/). Se busca simplificar la configuración inicial, estandarizar procesos y fomentar buenas prácticas desde el inicio del proyecto. A continuación, se describen las tareas a ejecutar:
+El propósito fundamental de este plan de acción es ofrecer una **Plantilla Base para Proyectos** con estructura organizada y configuración lista para usar en **GitHub** y **Visual Studio Code**. Simplifica la puesta en marcha, reduce errores y fomenta buenas prácticas, permitiendo a los equipos centrarse en el desarrollo de funcionalidades clave.
 
 ### Configuración del Repositorio en GitHub
 
@@ -38,11 +36,10 @@ Elaborar una propuesta de proyecto bien estructurada que contemple todos los asp
 
 **Requisitos:**
 
-- **Introducción:** Presentar el proyecto de forma clara y concisa, destacando su relevancia y contexto. Explicar su necesidad y alineación con las demandas del usuario o mercado.
-- **Objetivos:** Definir metas específicas, medibles, alcanzables y relevantes que guíen el propósito del proyecto.
-- **Beneficios:** Enumerar las ventajas tangibles e intangibles del proyecto, destacando su impacto positivo en eficiencia, productividad, calidad y satisfacción de los interesados.
-- **Características Clave:** Describir las funcionalidades principales del proyecto, asegurando que sean relevantes, innovadoras y alineadas con las necesidades identificadas.
-- **Conclusión:** Resumir los puntos clave del análisis, reafirmando la importancia de la propuesta y su contribución al éxito del proyecto.
+- **Introducción:** Incluir una breve introducción al proyecto, su propósito y objetivos.
+- **Problema:** Describir el problema que el proyecto busca resolver, incluyendo problemas clave.
+- **Solución:** Detallar la solución propuesta, incluyendo características clave y alcances.
+- **Conclusión:** Resumir los beneficios del proyecto y motivar al lector a considerar la propuesta.
 
 ### Redacción de `ACTION_PLAN.md`
 
@@ -194,7 +191,7 @@ Crear un archivo `WORKFLOW.md` que describa el flujo de trabajo del proyecto, in
 | :-------: | :----: | :--------: |
 |    P1     |   M    |     4      |
 
-Mejorar y actualizar varios archivos de documentación para mejorar la comprensión y uso del proyecto. Mantén actualizado el proyecto a partir de los conocimientos adquiridos en el curso.
+Mejorar y actualizar varios archivos de documentación para mejorar la comprensión y uso del proyecto. Mantén actualizado el proyecto a partir de los conocimientos adquiridos en los proyectos que realizas.
 
 ## Resumen
 
