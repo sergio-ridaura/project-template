@@ -1,4 +1,4 @@
-## 🚀 Guía de Despliegue
+# Guía de Despliegue
 
 _Copyright (c) 2025. [Sergio Ridaura](https://github.com/sergio-ridaura)._
 

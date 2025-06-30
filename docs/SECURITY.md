@@ -1,10 +1,10 @@
-# 🛡️ Security Policy
+# Security Policy
 
 _Copyright (c) 2025. [Sergio Ridaura](https://github.com/sergio-ridaura)._
 
 This document outlines the policies and procedures for handling security vulnerabilities in this project. Our goal is to ensure the safety of our users and maintain a secure development environment.
 
-### Reporting a Vulnerability
+## Reporting a Vulnerability
 
 If you identify a security vulnerability in this project, please follow these steps:
 
@@ -15,7 +15,7 @@ If you identify a security vulnerability in this project, please follow these st
   - Potential impact of the vulnerability.
   - Any other relevant information that can help us understand and resolve the issue.
 
-### Supported Versions
+## Supported Versions
 
 Older versions do not receive maintenance or security updates. It is recommended to update to the latest version to ensure protection against known vulnerabilities.
 
@@ -24,7 +24,7 @@ Older versions do not receive maintenance or security updates. It is recommended
 - No vulnerabilities are known in the recommended version.
 - Obsolete versions may present security risks and do not receive updates.
 
-### Security Best Practices
+## Security Best Practices
 
 To keep your project secure, we recommend:
 
@@ -32,6 +32,6 @@ To keep your project secure, we recommend:
 - **Code review**: Perform regular reviews of the code and configuration files to identify potential vulnerabilities.
 - **Continuous monitoring**: Use monitoring and security analysis tools to detect and respond to threats in real time.
 
-### Acknowledgements
+## Acknowledgements
 
 We deeply appreciate the community's commitment to helping us keep this project secure. Your collaboration is essential to protect all users and contribute to a safe and reliable development environment.

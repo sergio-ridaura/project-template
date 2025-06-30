@@ -1,24 +1,22 @@
-# 🔧 Plan de Acción v25.6.25
+# Plan de Acción
 
 _Copyright (c) 2025. [Sergio Ridaura](https://github.com/sergio-ridaura)._
 
-## Project Template
+## Project Template v25.6.30
 
 Plantilla base para iniciar proyectos de software de forma rápida y eficiente.
 
-Configurar un proyecto desde cero puede ser una tarea compleja, repetitiva y propensa a errores. Este proceso inicial consume tiempo valioso que podría dedicarse al desarrollo de funcionalidades clave. Para abordar este desafío, proponemos una plantilla base que simplifica y optimiza la configuración inicial de proyectos, promoviendo buenas prácticas desde el principio.
-
-Esta plantilla está diseñada para ser utilizada con **[Visual Studio Code](https://code.visualstudio.com/)** y se integra perfectamente con **[GitHub](https://github.com/)/**, facilitando la creación de repositorios y la gestión del código fuente. Al adoptar esta estructura predefinida, los equipos de desarrollo pueden enfocarse en lo que realmente importa: construir soluciones innovadoras y de alta calidad.
+Configurar un proyecto desde cero suele ser complejo y repetitivo, restando tiempo al desarrollo real. Esta plantilla base agiliza la configuración inicial en **[GitHub](https://github.com/)** y **[Visual Studio Code](https://code.visualstudio.com/)**, permitiendo a los equipos centrarse en crear soluciones de calidad desde el inicio.
 
 ## Tareas
 
-El propósito fundamental de este plan de acción es proporcionar una base robusta que agilice la creación de repositorios en [GitHub](https://github.com/) mediante el uso de [Visual Studio Code](https://code.visualstudio.com/). Se busca simplificar la configuración inicial, estandarizar procesos y fomentar buenas prácticas desde el inicio del proyecto. A continuación, se describen las tareas a ejecutar:
+El propósito fundamental de este plan de acción es ofrecer una **Plantilla Base para Proyectos** con estructura organizada y configuración lista para usar en **GitHub** y **Visual Studio Code**. Simplifica la puesta en marcha, reduce errores y fomenta buenas prácticas, permitiendo a los equipos centrarse en el desarrollo de funcionalidades clave.
 
 ### Configuración del Repositorio en GitHub
 
-| Prioridad | Tamaño | Estimación |
-| :-------: | :----: | :--------: |
-|    P1     |   XS   |     1      |
+| Prioridad | Tamaño |
+| :-------: | :----: |
+|    P1     |   XS   |
 
 Configurar un repositorio en GitHub para gestionar el control de versiones.
 
@@ -30,25 +28,24 @@ Configurar un repositorio en GitHub para gestionar el control de versiones.
 
 ### Redacción de `PROPOSAL.md`
 
-| Prioridad | Tamaño | Estimación |
-| :-------: | :----: | :--------: |
-|    P1     |   M    |     4      |
+| Prioridad | Tamaño |
+| :-------: | :----: |
+|    P1     |   M    |
 
 Elaborar una propuesta de proyecto bien estructurada que contemple todos los aspectos clave para garantizar su viabilidad y ejecución.
 
 **Requisitos:**
 
-- **Introducción:** Presentar el proyecto de forma clara y concisa, destacando su relevancia y contexto. Explicar su necesidad y alineación con las demandas del usuario o mercado.
-- **Objetivos:** Definir metas específicas, medibles, alcanzables y relevantes que guíen el propósito del proyecto.
-- **Beneficios:** Enumerar las ventajas tangibles e intangibles del proyecto, destacando su impacto positivo en eficiencia, productividad, calidad y satisfacción de los interesados.
-- **Características Clave:** Describir las funcionalidades principales del proyecto, asegurando que sean relevantes, innovadoras y alineadas con las necesidades identificadas.
-- **Conclusión:** Resumir los puntos clave del análisis, reafirmando la importancia de la propuesta y su contribución al éxito del proyecto.
+- **Introducción:** Incluir una breve introducción al proyecto, su propósito y objetivos.
+- **Problema:** Describir el problema que el proyecto busca resolver, incluyendo problemas clave.
+- **Solución:** Detallar la solución propuesta, incluyendo características clave y alcances.
+- **Conclusión:** Resumir los beneficios del proyecto y motivar al lector a considerar la propuesta.
 
 ### Redacción de `ACTION_PLAN.md`
 
-| Prioridad | Tamaño | Estimación |
-| :-------: | :----: | :--------: |
-|    P1     |   L    |     8      |
+| Prioridad | Tamaño |
+| :-------: | :----: |
+|    P1     |   L    |
 
 Desarrollar un plan de acción detallado que guíe la implementación del proyecto, asegurando el cumplimiento de los objetivos establecidos.
 
@@ -59,9 +56,9 @@ Desarrollar un plan de acción detallado que guíe la implementación del proyec
 
 ### Redacción de `KANBAN.md`
 
-| Prioridad | Tamaño | Estimación |
-| :-------: | :----: | :--------: |
-|    P1     |   XS   |     1      |
+| Prioridad | Tamaño |
+| :-------: | :----: |
+|    P1     |   S    |
 
 Crear un archivo `KANBAN.md` que sirva como base para el tablero Kanban del proyecto, facilitando la gestión de tareas y el seguimiento del progreso.
 
@@ -72,17 +69,17 @@ Crear un archivo `KANBAN.md` que sirva como base para el tablero Kanban del proy
 
 ### Archivo `.gitignore`
 
-| Prioridad | Tamaño | Estimación |
-| :-------: | :----: | :--------: |
-|    P1     |   XS   |     1      |
+| Prioridad | Tamaño |
+| :-------: | :----: |
+|    P1     |   XS   |
 
 Crear un archivo `.gitignore` para indicar a Git qué archivos o directorios deben ser ignorados.
 
 ### Archivos de GitHub
 
-| Prioridad | Tamaño | Estimación |
-| :-------: | :----: | :--------: |
-|    P1     |   M    |     4      |
+| Prioridad | Tamaño |
+| :-------: | :----: |
+|    P1     |   M    |
 
 Crear archivos de GitHub para gestionar la colaboración y las contribuciones.
 
@@ -93,9 +90,9 @@ Crear archivos de GitHub para gestionar la colaboración y las contribuciones.
 
 ### Archivos de Visual Studio Code
 
-| Prioridad | Tamaño | Estimación |
-| :-------: | :----: | :--------: |
-|    P1     |   M    |     4      |
+| Prioridad | Tamaño |
+| :-------: | :----: |
+|    P1     |   M    |
 
 Crear archivos de configuración para Visual Studio Code que faciliten el desarrollo y la colaboración.
 
@@ -106,8 +103,9 @@ Crear archivos de configuración para Visual Studio Code que faciliten el desarr
 
 ### Archivo `LICENSE.md`
 
-| Prioridad | Tamaño | Estimación |
-| :-------: | :----: | :--------: |horas
+| Prioridad | Tamaño |
+| :-------: | :----: |
+|    P1     |   M    |
 
 Crear archivos de licencia para el proyecto.
 
@@ -118,84 +116,124 @@ Crear archivos de licencia para el proyecto.
 
 ### Archivo `README.md`
 
-| Prioridad | Tamaño | Estimación |
-| :-------: | :----: | :--------: |
-|    P1     |   M    |     4      |
+| Prioridad | Tamaño |
+| :-------: | :----: |
+|    P1     |   M    |
 
 Crear un archivo `README.md` que proporcione una descripción general del proyecto y enlaces a otros documentos.
 
 ### Archivo `CODE_OF_CONDUCT.md`
 
-| Prioridad | Tamaño | Estimación |
-| :-------: | :----: | :--------: |
-|    P1     |   M    |     4      |
+| Prioridad | Tamaño |
+| :-------: | :----: |
+|    P1     |   M    |
 
 Crear un archivo `CODE_OF_CONDUCT.md` basado en el [Contributor Covenant](https://www.contributor-covenant.org).
 
 ### Archivo `CONTRIBUTING.md`
 
-| Prioridad | Tamaño | Estimación |
-| :-------: | :----: | :--------: |
-|    P1     |   M    |     4      |
+| Prioridad | Tamaño |
+| :-------: | :----: |
+|    P1     |   M    |
 
 Crear un archivo `CONTRIBUTING.md` con la guía de contribución (fork, clonar, crear ramas, commits, pull requests).
 
 ### Archivo `cspell.json`
 
-| Prioridad | Tamaño | Estimación |
-| :-------: | :----: | :--------: |
-|    P1     |   XS   |     1      |
+| Prioridad | Tamaño |
+| :-------: | :----: |
+|    P1     |   XS   |
 
 Crear un archivo `cspell.json` con configuraciones específicas para el corrector ortográfico `cspell`, incluyendo palabras personalizadas y configuraciones de idioma.
 
 ### Archivo `INSTALL.md`
 
-| Prioridad | Tamaño | Estimación |
-| :-------: | :----: | :--------: |
-|    P1     |   M    |     4      |
+| Prioridad | Tamaño |
+| :-------: | :----: |
+|    P1     |   M    |
 
 Crear un archivo `INSTALL.md` con instrucciones detalladas para la instalación del proyecto.
 
 ### Archivo `DEVELOP.md`
 
-| Prioridad | Tamaño | Estimación |
-| :-------: | :----: | :--------: |
-|    P1     |   L    |     8      |
+| Prioridad | Tamaño |
+| :-------: | :----: |
+|    P1     |   L    |
 
 Crear un archivo `DEVELOP.md` con una guía para el desarrollo en un entorno local.
 
 ### Archivo `DEPLOY.md`
 
-| Prioridad | Tamaño | Estimación |
-| :-------: | :----: | :--------: |
-|    P1     |   M    |     4      |
+| Prioridad | Tamaño |
+| :-------: | :----: |
+|    P1     |   M    |
 
 Crear un archivo `DEPLOY.md` con una guía para el despliegue del proyecto en producción.
 
 ### Archivo `SECURITY.md`
 
-| Prioridad | Tamaño | Estimación |
-| :-------: | :----: | :--------: |
-|    P1     |   M    |     4      |
+| Prioridad | Tamaño |
+| :-------: | :----: |
+|    P1     |   M    |
 
 Crear un archivo `SECURITY.md` con una guía para reportar vulnerabilidades de seguridad.
 
-### Archivo `WORKFLOW.md`
+### Guía `WORKFLOW.md`
 
-| Prioridad | Tamaño | Estimación |
-| :-------: | :----: | :--------: |
-|    P1     |   M    |     4      |
+| Prioridad | Tamaño |
+| :-------: | :----: |
+|    P1     |   L    |
 
-Crear un archivo `WORKFLOW.md` que describa el flujo de trabajo del proyecto, incluyendo las etapas de desarrollo, revisión y despliegue.
+Crear una guía en `guides/WORKFLOW.md` que describa el flujo de trabajo del proyecto, incluyendo las etapas de desarrollo, revisión y despliegue.
+
+### Guía `PROPOSAL.md`
+
+| Prioridad | Tamaño |
+| :-------: | :----: |
+|    P1     |   L    |
+
+Crear una guía en `guides/PROPOSAL.md` que describa cómo redactar una propuesta de proyecto, incluyendo los elementos clave que deben incluirse.
+
+### Guía `ACTION_PLAN.md`
+
+| Prioridad | Tamaño |
+| :-------: | :----: |
+|    P1     |   L    |
+
+Crear una guía en `guides/ACTION_PLAN.md` que explique cómo redactar un plan de acción efectivo, incluyendo la estructura básica y los elementos clave que deben incluirse.
+
+### Guía `KANBAN.md`
+
+| Prioridad | Tamaño |
+| :-------: | :----: |
+|    P1     |   L    |
+
+Crear una guía en `guides/KANBAN.md` que explique cómo utilizar un tablero Kanban para gestionar tareas y proyectos, incluyendo ejemplos de uso y buenas prácticas.
+
+### Guía `GITHUB.md`
+
+| Prioridad | Tamaño |
+| :-------: | :----: |
+|    P1     |   L    |
+
+Crear una guía en `guides/GITHUB.md` que explique cómo utilizar Git de manera efectiva en el proyecto, incluyendo comandos básicos y buenas prácticas.
+
+### Guía `GITHUB_COPILOT.md`
+
+| Prioridad | Tamaño |
+| :-------: | :----: |
+|    P1     |   L    |
+
+Crear una guía en `guides/GITHUB_COPILOT.md` que explique cómo utilizar GitHub Copilot para mejorar la productividad y la calidad del código.
 
 ### Actualización de Documentación
 
-| Prioridad | Tamaño | Estimación |
-| :-------: | :----: | :--------: |
-|    P1     |   M    |     4      |
+| Prioridad | Tamaño |
+| :-------: | :----: |
+|    P1     |        |
 
-Mejorar y actualizar varios archivos de documentación para mejorar la comprensión y uso del proyecto. Mantén actualizado el proyecto a partir de los conocimientos adquiridos en el curso.
+Mejorar y actualizar varios archivos de documentación para mejorar la comprensión y uso del proyecto. Mantén actualizado el proyecto a partir de los conocimientos adquiridos en los proyectos que realizas.
 
 ## Resumen
 
-El plan de acción consta de **18 tareas** con un esfuerzo total estimado de **70 puntos**.
+El plan de acción consta de **21 tareas** con un esfuerzo total estimado de **3 XXL y 1XS**.
