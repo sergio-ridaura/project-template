@@ -1,4 +1,4 @@
-# Project Template v25.6.29
+# Project Template v25.6.30
 
 _Copyright (c) 2025. [Sergio Ridaura](https://github.com/sergio-ridaura)._
 
@@ -63,6 +63,7 @@ Check the following documents to learn how to get the most out of the template:
 - **[Project Proposal](guides/PROPOSAL.md)**: How to create effective proposals.
 - **[Action Plan](guides/ACTION_PLAN.md)**: Strategies for defining and managing tasks.
 - **[Kanban](guides/KANBAN.md)**: Advanced use of Kanban in projects.
+- **[GitHub](guides/GITHUB.md)**: Best practices for using Git and GitHub.
 - **[GitHub Copilot](guides/GITHUB_COPILOT.md)**: Smart assistance to boost productivity.
 
 ### Setup and Development

@@ -1,4 +1,4 @@
-# Guía de Plan de Acción v25.6.29
+# Guía de Plan de Acción v25.6.30
 
 _Copyright (c) 2025. [Sergio Ridaura](https://github.com/sergio-ridaura)._
 
@@ -32,7 +32,43 @@ Describe las tareas que se llevarán a cabo para implementar el proyecto. Expón
 
 #### 4.1. Tarea
 
-Lista las tareas específicas que se abordarán en el plan. Utiliza **negritas** para resaltar cada tarea y acompaña cada una con una breve explicación.
+Lista las tareas específicas que se abordarán en el plan.
+
+Cada tarea debe incluir:
+
+- **Titulo:** Un nombre claro y descriptivo que identifique la tarea.
+
+- **Atributos:** Que describen la tarea, como prioridad y tamaño.
+
+  | Prioridad | Tamaño |
+  | :-------: | :----: |
+  |    P0     |   XS   |
+
+  - **Prioridad:** Indica la importancia de la tarea (P0, P1, P2, P3).
+
+  | Nombre | Prioridad |
+  | :----: | :-------: |
+  |   P0   |   Baja    |
+  |   P1   |   Media   |
+  |   P2   |   Alta    |
+  |   P3   |  Crítica  |
+
+  - **Tamaño:** Estima el tamaño de la tarea (XS, S, M, L, XL, XXL).
+
+  | Nombre |   Tamaño    | Estimación |
+  | :----: | :---------: | :--------: |
+  |   XS   | Muy Pequeño |     1      |
+  |   S    |   Pequeño   |     2      |
+  |   M    |   Mediano   |     4      |
+  |   L    |   Grande    |     8      |
+  |   XL   | Muy Grande  |     16     |
+  |  XXL   |   Enorme    |     32     |
+
+- **Descripción:** Explica brevemente el propósito de la tarea y su relevancia para el proyecto.
+
+- **Requisitos:** Especifica los criterios o condiciones que deben cumplirse para considerar la tarea finalizada.
+
+- **Comentarios:** Agrega información adicional relevante, como riesgos, dependencias, sugerencias, lecciones aprendidas o cualquier observación que pueda facilitar la ejecución o el seguimiento de la tarea.
 
 ### 5. Resumen
 

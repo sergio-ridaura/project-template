@@ -1,22 +1,22 @@
-# Action Plan Guide v25.6.29
+# Action Plan Guide v25.6.30
 
 _Copyright (c) 2025. [Sergio Ridaura](https://github.com/sergio-ridaura)._
 
 ## Introduction
 
-Before drafting an action plan, adapt this guide to the needs and specific context of your project. If you are working in a team, review and adjust the guide together to ensure it reflects the objectives and expectations of all participants. If you are unsure how to start, use this document as an initial reference and adjust it as you progress in developing your plan.
+Before drafting an action plan, adapt this guide to the needs and specific context of your project. If you are working in a team, review and adjust the guide together to ensure it reflects the objectives and expectations of all participants. If you have doubts about how to start, use this document as an initial reference and adjust it as you progress in developing your plan.
 
-The purpose of this guide is to help you structure and write action plans in a professional, clear, and effective manner. Here you will find practical recommendations and useful tips to improve the quality and effectiveness of your plans.
+The purpose of this guide is to help you structure and draft action plans in a professional, clear, and effective way. Here you will find practical recommendations and useful tips to improve the quality and effectiveness of your plans.
 
-Not all actions must be carried out. The action plan is related to the project proposal and is a tool to assess the feasibility of the project. If, after analysis, it is determined that the project is not viable, it is essential to close the proposal professionally, clearly explaining the reasons and thanking the reader for their time and consideration.
+Not all actions must be carried out. The action plan is related to the project proposal and is a tool to evaluate the feasibility of the project. If after analysis it is determined that it is not feasible, it is essential to close the proposal professionally, clearly explaining the reasons and thanking the reader for their time and consideration.
 
 ## Action Plan Structure
 
-To write an effective action plan, follow this basic structure that will help you organize the information clearly and coherently:
+To draft an effective action plan, follow this basic structure that will help you organize the information clearly and coherently:
 
 ### 1. Copyright
 
-Include a clear copyright line, specifying the year and the name of the author or authors of the action plan. You can add a link to your professional profile (for example, LinkedIn or GitHub) to provide more information about your experience. If the plan is prepared by a team, use the team name and provide a link to a shared document detailing the members and their roles in the project. This facilitates proper attribution and brings transparency to authorship.
+Include a clear copyright line, specifying the year and the name of the author or authors of the action plan. You can add a link to your professional profile (for example, LinkedIn or GitHub) to provide more information about your experience. If the plan is prepared by a team, use the team name and provide a link to a shared document detailing the members and their roles in the project. This facilitates proper attribution and brings transparency about authorship.
 
 ### 2. Project Name
 
@@ -32,8 +32,44 @@ Describe the tasks that will be carried out to implement the project. Explain th
 
 #### 4.1. Task
 
-List the specific tasks to be addressed in the plan. Use **bold** to highlight each task and accompany each with a brief explanation.
+List the specific tasks to be addressed in the plan.
+
+Each task must include:
+
+- **Title:** A clear and descriptive name that identifies the task.
+
+- **Attributes:** That describe the task, such as priority and size.
+
+  | Priority | Size |
+  | :------: | :--: |
+  |    P0    |  XS  |
+
+  - **Priority:** Indicates the importance of the task (P0, P1, P2, P3).
+
+  | Name | Priority |
+  | :--: | :------: |
+  |  P0  |   Low    |
+  |  P1  |  Medium  |
+  |  P2  |   High   |
+  |  P3  | Critical |
+
+  - **Size:** Estimates the size of the task (XS, S, M, L, XL, XXL).
+
+  | Name |    Size    | Estimate |
+  | :--: | :--------: | :------: |
+  |  XS  | Very Small |    1     |
+  |  S   |   Small    |    2     |
+  |  M   |   Medium   |    4     |
+  |  L   |   Large    |    8     |
+  |  XL  | Very Large |    16    |
+  | XXL  |    Huge    |    32    |
+
+- **Description:** Briefly explains the purpose of the task and its relevance to the project.
+
+- **Requirements:** Specifies the criteria or conditions that must be met for the task to be considered complete.
+
+- **Comments:** Adds additional relevant information, such as risks, dependencies, suggestions, lessons learned, or any observation that may facilitate the execution or monitoring of the task.
 
 ### 5. Summary
 
-Make an estimate of the number of tasks and efforts required to complete the project.
+Calculate the number of tasks and efforts required to complete the project.
