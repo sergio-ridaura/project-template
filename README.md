@@ -1,4 +1,4 @@
-# Project Template v25.6.30
+# Project Template v25.7.1
 
 _Copyright (c) 2025. [Sergio Ridaura](https://github.com/sergio-ridaura)._
 
@@ -6,14 +6,14 @@ _Copyright (c) 2025. [Sergio Ridaura](https://github.com/sergio-ridaura)._
 
 A base template to quickly and efficiently start software projects.
 
-Setting up a project from scratch is often complex and repetitive, taking time away from real development. This base template streamlines the initial setup in **[GitHub](https://github.com/)** and **[Visual Studio Code](https://code.visualstudio.com/)**, allowing teams to focus on building quality solutions from the start.
+Setting up a project from scratch is often complex and repetitive, taking time away from real development. This base template streamlines the initial setup in **[GitHub](https://github.com/)** and **[Visual Studio Code](https://code.visualstudio.com/)**, allowing teams to focus on creating quality solutions from the start.
 
 Do you like this project? Give it a star and share it!
 
 ## Key Features
 
 - **Organized structure**: Predefined directories for efficient development.
-- **Comprehensive documentation**: Detailed guides for every aspect of the project.
+- **Complete documentation**: Detailed guides for every aspect of the project.
 - **GitHub configuration**: Integration with workflows like GitHub Flow.
 - **VS Code configuration**: Recommended settings and extensions included.
 - **Kanban methodology**: Integrated visual tracking system.
@@ -27,29 +27,40 @@ Do you like this project? Give it a star and share it!
 
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Git](https://git-scm.com/)
-- Basic knowledge of software development.
+- [GitHub account](https://github.com/)
+- Basic software development knowledge.
 
 ## Quick Start
 
-To start your new project using this template, use the **Use this template** button on the [project page](https://github.com/sergio-ridaura/project-template) on GitHub or clone the repository directly:
+Get your project up and running in minutes by following these steps:
 
-```bash
-# Clone the repository and name it
-git clone https://github.com/sergio-ridaura/project-template.git my-project
+1. Click **Use this template** on the [project page](https://github.com/sergio-ridaura/project-template) on GitHub, or clone the repository manually:
 
-# Enter the project directory
-cd my-project
+   ```bash
+   # Clone the repository and give your new project a name
+   git clone https://github.com/sergio-ridaura/project-template.git my-project
 
-# Initialize your local repository
-git init
+   # Enter the project directory
+   cd my-project
 
-# Customize your project
-# (See the installation guide for more details)
-```
+   # Open Visual Studio Code in the current directory
+   code .
+
+   # (Optional) Initialize a new Git repository
+   git init
+   ```
+
+2. **Read the documentation**, start with **[Getting Started](docs/GETTING_STARTED.md)**, or use the default documentation to get started quickly.
+
+3. **Start developing** your application by applying the best practices and workflows recommended in the documentation.
+
+That's it! You now have an environment ready for agile, efficient, and well-structured development.
 
 ## Documentation
 
-Check the following documents to learn how to get the most out of the template:
+Start by reading **[Getting Started](docs/GETTING_STARTED.md)** and follow the instructions.
+
+Check out these documents to make the most of the template:
 
 ### Main
 
@@ -59,18 +70,18 @@ Check the following documents to learn how to get the most out of the template:
 
 ### Technical Guides
 
-- **[Workflow](guides/WORKFLOW.md)**: Organization and development best practices.
-- **[Project Proposal](guides/PROPOSAL.md)**: How to create effective proposals.
-- **[Action Plan](guides/ACTION_PLAN.md)**: Strategies for defining and managing tasks.
-- **[Kanban](guides/KANBAN.md)**: Advanced use of Kanban in projects.
-- **[GitHub](guides/GITHUB.md)**: Best practices for using Git and GitHub.
-- **[GitHub Copilot](guides/GITHUB_COPILOT.md)**: Smart assistance to boost productivity.
+- **[Workflow](docs/guides/WORKFLOW.md)**: Organization and development best practices.
+- **[Project Proposal](docs/guides/PROPOSAL.md)**: How to create effective proposals.
+- **[Action Plan](docs/guides/ACTION_PLAN.md)**: Strategies for defining and managing tasks.
+- **[Kanban](docs/guides/KANBAN.md)**: Advanced use of Kanban in projects.
+- **[GitHub](docs/guides/GITHUB.md)**: Best practices for using Git and GitHub.
+- **[GitHub Copilot](docs/guides/GITHUB_COPILOT.md)**: Smart assistance to boost productivity.
 
 ### Setup and Development
 
 - **[Installation](docs/INSTALL.md)**: Step-by-step guide for initial setup.
 - **[Development](docs/DEVELOP.md)**: Recommendations and guidelines for development.
-- **[Deployment](docs/DEPLOY.md)**: Instructions to publish your application.
+- **[Deployment](docs/DEPLOY.md)**: Instructions for publishing your application.
 
 ### Collaboration and Policies
 
@@ -79,12 +90,12 @@ Check the following documents to learn how to get the most out of the template:
 - **[Security Policy](docs/SECURITY.md)**: Procedures for reporting vulnerabilities.
 - **[MIT License](LICENSE)**: Terms and conditions of use.
 
-Suggestions or issues? Open an [issue](../../issues) or contact me directly.
+Suggestions or issues? Open an [issue](https://github.com/sergio-ridaura/project-template/issues) or contact me directly.
 
 ## About the Author
 
 **Hi! 👋 I'm [Sergio Ridaura](https://github.com/sergio-ridaura)**
 
-Full-Stack Developer experienced in **[JavaScript](https://developer.mozilla.org/docs/Web/JavaScript)** and transitioning to **[Rust](https://www.rust-lang.org/)**. Passionate about building efficient, scalable, and high-performance web applications. I enjoy working with modern technologies that drive agile development, collaboration, and software quality.
+Full-Stack Developer experienced in **[JavaScript](https://developer.mozilla.org/docs/Web/JavaScript)** and transitioning to **[Rust](https://www.rust-lang.org/)**. Passionate about creating efficient, scalable, and high-performance web applications. I enjoy working with modern technologies that drive agile development, collaboration, and software quality.
 
 My favorite tools for building web applications are **[TypeScript](https://www.typescriptlang.org/)**, **[Astro](https://astro.build/)**, **[React](https://react.dev/)**, **[Node.js](https://nodejs.org/)**, and **[MySQL](https://www.mysql.com/)**.

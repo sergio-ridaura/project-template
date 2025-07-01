@@ -1,4 +1,4 @@
-# Project Template v25.6.30
+# Project Template v25.7.1
 
 _Copyright (c) 2025. [Sergio Ridaura](https://github.com/sergio-ridaura)._
 
@@ -27,29 +27,40 @@ Configurar un proyecto desde cero suele ser complejo y repetitivo, restando tiem
 
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Git](https://git-scm.com/)
+- Cuenta en [GitHub](https://github.com/)
 - Conocimientos básicos de desarrollo de software.
 
 ## Inicio Rápido
 
-Para comenzar con tu nuevo proyecto utilizando esta plantilla, utiliza el botón **Use this template** en la [página del proyecto](https://github.com/sergio-ridaura/project-template) de GitHub o clona el repositorio directamente:
+Pon en marcha tu proyecto en pocos minutos siguiendo estos pasos:
 
-```bash
-# Clona el repositorio y nómbralo
-git clone https://github.com/sergio-ridaura/project-template.git mi-proyecto
+1. Haz clic en **Use this template** en la [página del proyecto](https://github.com/sergio-ridaura/project-template) en GitHub, o clona el repositorio manualmente:
 
-# Entra en el directorio del proyecto
-cd mi-proyecto
+   ```bash
+   # Clona el repositorio y asigna un nombre a tu nuevo proyecto
+   git clone https://github.com/sergio-ridaura/project-template.git mi-proyecto
 
-# Inicia tu repositorio local
-git init
+   # Accede al directorio del proyecto
+   cd mi-proyecto
 
-# Personaliza tu proyecto
-# (Consulta la guía de instalación para más detalles)
-```
+   # Abre Visual Studio Code en el directorio actual
+   code .
+
+   # (Opcional) Inicializa un nuevo repositorio Git
+   git init
+   ```
+
+2. **Lee la documentación**, empieza por leer **[Primeros Pasos](GETTING_STARTED.md)**, o utiliza la documentación predeterminada para empezar rápidamente.
+
+3. **Comienza a desarrollar** tu aplicación aplicando las buenas prácticas y flujos de trabajo recomendados en la documentación.
+
+¡Eso es todo! Ya tienes un entorno listo para desarrollar de forma ágil, eficiente y bien estructurada.
 
 ## Documentación
 
-Consulta los siguientes documentos para aprender a sacar el máximo provecho de la plantilla:
+Comienza leyendo **[Primeros Pasos](GETTING_STARTED.md)** y sigue las indicaciones.
+
+Consulta estos documentos para aprovechar al máximo la plantilla:
 
 ### Principales
 
@@ -79,7 +90,7 @@ Consulta los siguientes documentos para aprender a sacar el máximo provecho de 
 - **[Política de Seguridad](SECURITY.md)**: Procedimientos para reportar vulnerabilidades.
 - **[Licencia MIT](../../LICENSE)**: Términos y condiciones de uso.
 
-¿Sugerencias o problemas? Abre un [issue](../../issues) o contáctame directamente.
+¿Sugerencias o problemas? Abre un [issue](https://github.com/sergio-ridaura/project-template/issues) o contáctame directamente.
 
 ## Sobre el Autor
 

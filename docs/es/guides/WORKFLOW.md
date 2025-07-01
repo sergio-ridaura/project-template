@@ -1,20 +1,26 @@
-# Flujo de trabajo v25.6.29
+# Flujo de trabajo v25.6.30
 
 _Copyright (c) 2025. [Sergio Ridaura](https://github.com/sergio-ridaura)._
 
 ## Introducción
 
+Antes de comenzar a desarrollar un proyecto utilizando esta plantilla, es importante que adaptes el flujo de trabajo a las necesidades y características específicas de tu equipo y proyecto. Si trabajas en equipo, revisen y ajusten juntos este flujo para asegurar que todos estén alineados con los objetivos y expectativas del desarrollo. Si tienes dudas sobre cómo empezar, utiliza este documento como referencia inicial y ajústalo conforme avances en el desarrollo del proyecto.
+
 El flujo de trabajo propuesto para el desarrollo de proyectos con esta plantilla está diseñado para brindar claridad, estructura y eficiencia, facilitando una implementación alineada con los objetivos del equipo. Esta plantilla integra buenas prácticas y metodologías reconocidas, como **[GitHub Flow](https://docs.github.com/get-started/using-github/github-flow)** y **[Kanban](https://asana.com/resources/what-is-kanban)**, lo que garantiza un proceso colaborativo, organizado y adaptable.
 
-Utiliza este flujo como una guía flexible que puedes personalizar según las características de tu proyecto. Ajusta las etapas y los detalles conforme a las necesidades de tu equipo y los objetivos específicos del desarrollo.
+
+
+# instala
+# adapta
+# propuesta ...
 
 ### Etapas del Flujo de Trabajo
 
-Tras iniciar el proyecto y finalizar la **Configuración inicial** (ver [DEVELOP](DEVELOP.md)), el flujo de trabajo se estructura en las siguientes etapas principales. Estas etapas se repiten de forma iterativa, normalmente en ciclos de dos semanas, tantas veces como sea necesario para alcanzar los objetivos del proyecto:
+Tras iniciar el proyecto y finalizar la **Configuración inicial** de la plantilla, ver [DEVELOP](../DEVELOP.md), el flujo de trabajo se estructura en las siguientes etapas principales. Estas etapas se repiten de forma iterativa, normalmente en ciclos de dos semanas, tantas veces como sea necesario para alcanzar los objetivos del proyecto:
 
 #### 1. Selección de Tareas
 
-En esta etapa, el equipo revisa y selecciona las tareas que se abordarán a en el ciclo. Las tareas elegidas se trasladan a la columna **Por hacer** del tablero Kanban. Es esencial que cada tarea esté claramente definida, priorizada y documentada en el [Plan de Acción](ACTION_PLAN.md), lo que asegura una comprensión compartida, facilita el seguimiento y permite una ejecución eficiente por parte de los desarrolladores.
+En esta etapa, el equipo revisa y selecciona las tareas que se abordarán a en el ciclo. Las tareas elegidas se trasladan a la columna **Por hacer** del tablero Kanban. Es esencial que cada tarea esté claramente definida, priorizada y documentada en el [Plan de Acción](../ACTION_PLAN.md), lo que asegura una comprensión compartida, facilita el seguimiento y permite una ejecución eficiente por parte de los desarrolladores.
 
 Si una tarea no está completamente definida o requiere más información, se puede mover a la columna **Pendiente** del tablero Kanban. Esto permite que el equipo identifique rápidamente las tareas que necesitan más detalles antes de ser abordadas.
 
