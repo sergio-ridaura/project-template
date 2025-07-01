@@ -105,5 +105,3 @@ Full-Stack Developer with experience in **[JavaScript](https://developer.mozilla
 My favorite tools for building web applications are **[TypeScript](https://www.typescriptlang.org/)**, **[Astro](https://astro.build/)**, **[React](https://react.dev/)**, **[Node.js](https://nodejs.org/)**, and **[MySQL](https://www.mysql.com/)**.
 
 ⭐ Do you like this project? Give it a star and share it!
-
----
