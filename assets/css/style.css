@@ -6877,13 +6877,21 @@ hr,
 }
 
 table {
-  background-color: #23272a !important;
+  background-color: transparent !important;
   color: #e8e6e3 !important;
+}
+
+tr {
+  border-color: #d1d5da !important;
+}
+
+tr:nth-child(2n) {
+  background-color: #b9bbbe !important;
 }
 
 th,
 td {
-  border-color: #444c56 !important;
+  border-color: #d1d5da !important;
 }
 
 blockquote {
