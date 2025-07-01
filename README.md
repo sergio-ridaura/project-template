@@ -2,6 +2,8 @@
 
 _Copyright (c) 2025. [Sergio Ridaura](https://github.com/sergio-ridaura)._
 
+> Disponible en [Español](docs/es/README.md).
+
 ## Description
 
 A base template to quickly and efficiently start software projects.
@@ -48,7 +50,7 @@ Get your project up and running in minutes by following these steps:
    git init
    ```
 
-2. **Review the [Getting Started](GETTING_STARTED.md) guide** to get familiar with the template and learn the recommended workflow. If you already have experience, you can skip this step.
+2. **Review the [Getting Started](docs/GETTING_STARTED.md) guide** to get familiar with the template and learn the recommended workflow. If you already have experience, you can skip this step.
 
 3. **Customize the documentation** according to your project's needs, or use the default version to start right away.
 
@@ -58,37 +60,37 @@ That's it! You now have an environment ready for agile, efficient, and well-stru
 
 ## Documentation
 
-Start by reading **[Getting Started](GETTING_STARTED.md)** and follow the instructions.
+Start by reading **[Getting Started](docs/GETTING_STARTED.md)** and follow the instructions.
 
 Check out these documents to make the most of the template:
 
 ### Main
 
-- **[Project Proposal](PROPOSAL.md)**: Project objectives and scope.
-- **[Action Plan](ACTION_PLAN.md)**: Detailed implementation strategy.
-- **[Kanban Board](KANBAN.md)**: Visual tracking of progress and tasks.
+- **[Project Proposal](docs/PROPOSAL.md)**: Project objectives and scope.
+- **[Action Plan](docs/ACTION_PLAN.md)**: Detailed implementation strategy.
+- **[Kanban Board](docs/KANBAN.md)**: Visual tracking of progress and tasks.
 
 ### Technical Guides
 
-- **[Workflow](guides/WORKFLOW.md)**: Organization and development best practices.
-- **[Project Proposal](guides/PROPOSAL.md)**: How to create effective proposals.
-- **[Action Plan](guides/ACTION_PLAN.md)**: Strategies for defining and managing tasks.
-- **[Kanban](guides/KANBAN.md)**: Advanced use of Kanban in projects.
-- **[GitHub](guides/GITHUB.md)**: Best practices for using Git and GitHub.
-- **[GitHub Copilot](guides/GITHUB_COPILOT.md)**: Smart assistance to boost productivity.
+- **[Workflow](docs/guides/WORKFLOW.md)**: Organization and development best practices.
+- **[Project Proposal](docs/guides/PROPOSAL.md)**: How to create effective proposals.
+- **[Action Plan](docs/guides/ACTION_PLAN.md)**: Strategies for defining and managing tasks.
+- **[Kanban](docs/guides/KANBAN.md)**: Advanced use of Kanban in projects.
+- **[GitHub](docs/guides/GITHUB.md)**: Best practices for using Git and GitHub.
+- **[GitHub Copilot](docs/guides/GITHUB_COPILOT.md)**: Smart assistance to boost productivity.
 
 ### Setup and Development
 
-- **[Installation](INSTALL.md)**: Step-by-step guide for initial setup.
-- **[Development](DEVELOP.md)**: Recommendations and guidelines for development.
-- **[Deployment](DEPLOY.md)**: Instructions to publish your application.
+- **[Installation](docs/INSTALL.md)**: Step-by-step guide for initial setup.
+- **[Development](docs/DEVELOP.md)**: Recommendations and guidelines for development.
+- **[Deployment](docs/DEPLOY.md)**: Instructions to publish your application.
 
 ### Collaboration and Policies
 
-- **[Contributing](CONTRIBUTING.md)**: How to collaborate and propose improvements.
-- **[Code of Conduct](CODE_OF_CONDUCT.md)**: Rules for a respectful and collaborative environment.
-- **[Security Policy](SECURITY.md)**: Procedures for reporting vulnerabilities.
-- **[MIT License](../../LICENSE)**: Terms and conditions of use.
+- **[Contributing](docs/CONTRIBUTING.md)**: How to collaborate and propose improvements.
+- **[Code of Conduct](docs/CODE_OF_CONDUCT.md)**: Rules for a respectful and collaborative environment.
+- **[Security Policy](docs/SECURITY.md)**: Procedures for reporting vulnerabilities.
+- **[MIT License](LICENSE)**: Terms and conditions of use.
 
 Suggestions or issues? Open an [issue](https://github.com/sergio-ridaura/project-template/issues) or contact me directly.
 
@@ -105,3 +107,5 @@ Full-Stack Developer with experience in **[JavaScript](https://developer.mozilla
 My favorite tools for building web applications are **[TypeScript](https://www.typescriptlang.org/)**, **[Astro](https://astro.build/)**, **[React](https://react.dev/)**, **[Node.js](https://nodejs.org/)**, and **[MySQL](https://www.mysql.com/)**.
 
 ⭐ Do you like this project? Give it a star and share it!
+
+---
