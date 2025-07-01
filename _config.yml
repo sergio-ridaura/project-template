@@ -1,2 +1,13 @@
-title: Project Template
+title: Project Template Docs
 description: A base template to quickly and efficiently start software projects.
+repo_url: "https://github.com/sergio-ridaura/project-template"
+exclude:
+  - .git
+  - .github
+  - .vscode
+  - temp
+include:
+  - docs/CODE_OF_CONDUCT.md
+  - docs/es/CODE_OF_CONDUCT.md
+  - docs/CONTRIBUTING.md
+  - docs/es/CONTRIBUTING.md
