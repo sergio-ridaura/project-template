@@ -98,9 +98,7 @@ Consulta estos documentos para aprovechar al máximo la plantilla:
 
 **¡Hola! 👋 Soy [Sergio Ridaura](https://github.com/sergio-ridaura)**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20Profesional-blue?logo=linkedin)](https://www.linkedin.com/in/sergio-ridaura/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-@sergio--ridaura-181717?logo=github)](https://github.com/sergio-ridaura)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20Profesional-blue?logo=linkedin)](https://www.linkedin.com/in/sergio-ridaura/) [![GitHub](https://img.shields.io/badge/GitHub-@sergio--ridaura-181717?logo=github)](https://github.com/sergio-ridaura)
 
 Desarrollador Full-Stack con experiencia en **[JavaScript](https://developer.mozilla.org/docs/Web/JavaScript)** y en transición hacia **[Rust](https://www.rust-lang.org/)**. Apasionado por crear aplicaciones web eficientes, escalables y de alto rendimiento. Disfruto trabajar con tecnologías modernas que impulsan el desarrollo ágil, la colaboración y la calidad del software.
 

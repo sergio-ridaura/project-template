@@ -98,9 +98,7 @@ Suggestions or issues? Open an [issue](https://github.com/sergio-ridaura/project
 
 **Hi! 👋 I'm [Sergio Ridaura](https://github.com/sergio-ridaura)**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20Profesional-blue?logo=linkedin)](https://www.linkedin.com/in/sergio-ridaura/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-@sergio--ridaura-181717?logo=github)](https://github.com/sergio-ridaura)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20Profesional-blue?logo=linkedin)](https://www.linkedin.com/in/sergio-ridaura/) [![GitHub](https://img.shields.io/badge/GitHub-@sergio--ridaura-181717?logo=github)](https://github.com/sergio-ridaura)
 
 Full-Stack Developer with experience in **[JavaScript](https://developer.mozilla.org/docs/Web/JavaScript)** and transitioning to **[Rust](https://www.rust-lang.org/)**. Passionate about creating efficient, scalable, and high-performance web applications. I enjoy working with modern technologies that drive agile development, collaboration, and software quality.
 
