@@ -8,8 +8,6 @@ Plantilla base para iniciar proyectos de software de forma rápida y eficiente.
 
 Configurar un proyecto desde cero suele ser complejo y repetitivo, restando tiempo al desarrollo real. Esta plantilla base agiliza la configuración inicial en **[GitHub](https://github.com/)** y **[Visual Studio Code](https://code.visualstudio.com/)**, permitiendo a los equipos centrarse en crear soluciones de calidad desde el inicio.
 
-¿Te gusta este proyecto? ¡Dale una estrella y compártelo!
-
 ## Características Clave
 
 - **Estructura organizada**: Directorios predefinidos para un desarrollo eficiente.
@@ -46,13 +44,15 @@ Pon en marcha tu proyecto en pocos minutos siguiendo estos pasos:
    # Abre Visual Studio Code en el directorio actual
    code .
 
-   # (Opcional) Inicializa un nuevo repositorio Git
+   # Inicializa un nuevo repositorio Git
    git init
    ```
 
-2. **Lee la documentación**, empieza por leer **[Primeros Pasos](GETTING_STARTED.md)**, o utiliza la documentación predeterminada para empezar rápidamente.
+2. **Revisa la guía [Primeros Pasos](GETTING_STARTED.md)** para familiarizarte con la plantilla y conocer el flujo recomendado. Si ya tienes experiencia, puedes omitir este paso.
 
-3. **Comienza a desarrollar** tu aplicación aplicando las buenas prácticas y flujos de trabajo recomendados en la documentación.
+3. **Personaliza la documentación** según las necesidades de tu proyecto, o utiliza la versión predeterminada para comenzar de inmediato.
+
+4. **Comienza a desarrollar** tu aplicación aplicando las buenas prácticas y flujos de trabajo recomendados en la documentación.
 
 ¡Eso es todo! Ya tienes un entorno listo para desarrollar de forma ágil, eficiente y bien estructurada.
 
@@ -96,6 +96,12 @@ Consulta estos documentos para aprovechar al máximo la plantilla:
 
 **¡Hola! 👋 Soy [Sergio Ridaura](https://github.com/sergio-ridaura)**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20Profesional-blue?logo=linkedin)](https://www.linkedin.com/in/sergio-ridaura/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-@sergio--ridaura-181717?logo=github)](https://github.com/sergio-ridaura)
+
 Desarrollador Full-Stack con experiencia en **[JavaScript](https://developer.mozilla.org/docs/Web/JavaScript)** y en transición hacia **[Rust](https://www.rust-lang.org/)**. Apasionado por crear aplicaciones web eficientes, escalables y de alto rendimiento. Disfruto trabajar con tecnologías modernas que impulsan el desarrollo ágil, la colaboración y la calidad del software.
 
 Mis herramientas favoritas para crear aplicaciones web son **[TypeScript](https://www.typescriptlang.org/)**, **[Astro](https://astro.build/)**, **[React](https://react.dev/)**, **[Node.js](https://nodejs.org/)** y **[MySQL](https://www.mysql.com/)**.
+
+⭐¿Te gusta este proyecto? ¡Dale una estrella y compártelo!
