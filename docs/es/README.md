@@ -105,5 +105,3 @@ Desarrollador Full-Stack con experiencia en **[JavaScript](https://developer.moz
 Mis herramientas favoritas para crear aplicaciones web son **[TypeScript](https://www.typescriptlang.org/)**, **[Astro](https://astro.build/)**, **[React](https://react.dev/)**, **[Node.js](https://nodejs.org/)** y **[MySQL](https://www.mysql.com/)**.
 
 ⭐¿Te gusta este proyecto? ¡Dale una estrella y compártelo!
-
----
