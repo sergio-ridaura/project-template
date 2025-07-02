@@ -6833,9 +6833,21 @@ pre {
   background-color: #f8f8f8;
 }
 
+nav a img {
+  background: transparent !important;
+    filter: invert(90%) sepia(10%) saturate(500%) hue-rotate(180deg);
+}
+
+nav a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5em;
+  text-decoration: none;
+}
+
 /* --- Modo oscuro --- */
 body {
-  background-color: #181a1b !important;
+  background-color: #23272a !important;
   color: #e8e6e3 !important;
 }
 
@@ -6882,6 +6894,7 @@ table {
 }
 
 tr {
+  background-color: transparent !important;
   border-color: #d1d5da !important;
 }
 

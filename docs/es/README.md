@@ -77,6 +77,7 @@ Consulta estos documentos para aprovechar al máximo la plantilla:
 - **[Plan de Acción](guides/ACTION_PLAN.md)**: Estrategias para definir y gestionar tareas.
 - **[Kanban](guides/KANBAN.md)**: Uso avanzado de Kanban en proyectos.
 - **[GitHub](guides/GITHUB.md)**: Mejores prácticas para el uso de Git y GitHub.
+- **[GitHub Pages](guides/GITHUB_PAGES.md)**: Cómo publicar documentación y sitios web estáticos.
 - **[GitHub Copilot](guides/GITHUB_COPILOT.md)**: Asistencia inteligente para mejorar la productividad.
 
 ### Configuración y Desarrollo
