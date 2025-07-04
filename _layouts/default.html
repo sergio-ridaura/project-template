@@ -6,26 +6,180 @@
     <title>{{ site.title }}</title>
     <link
       rel="stylesheet"
+      href="{{ '/assets/css/default.css' | relative_url }}"
+    />
+    <link
+      rel="stylesheet"
       href="{{ '/assets/css/style.css' | relative_url }}"
     />
   </head>
-  <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      <header>
-        <h1>{{ site.title }}</h1>
-        <p>{{ site.description }}</p>
-        <nav>
-          <a href="{{ site.repo_url }}">
-            <img
-              width="24"
-              src="{{ 'assets/images/github.svg' | relative_url }}"
-              alt="GitHub Repository"
-            />
-            GitHub Repository
-          </a>
-        </nav>
-      </header>
-      <main>{{ content }}</main>
-    </div>
+  <body class="container-lg px-3 markdown-body">
+    <header>
+      <nav>
+        <div>
+          <h1>{{ site.title }}</h1>
+          <p>{{ site.description }}</p>
+        </div>
+        <div>
+          <a href="{{ site.repository }}"> Repository </a>
+          <a href="{{ site.repository }}"> About </a>
+        </div>
+      </nav>
+      <hr />
+    </header>
+    <main>{{ content }}</main>
+    <footer>
+      <p class>
+        <em
+          >Copyright (c) 2025. <a href="{{ site.about }}">{{site.author}}</a>.
+        </em>
+      </p>
+      <button
+        id="scrollToTop"
+        class="scroll-to-top"
+        onclick="scrollToTop()"
+        aria-label="Scroll to top"
+      >
+        <svg
+          width="20"
+          height="20"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        >
+          <polyline points="18,15 12,9 6,15"></polyline>
+        </svg>
+      </button>
+    </footer>
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        initScrollToTop();
+        initCopyButtons();
+      });
+
+      function initScrollToTop() {
+        window.addEventListener("scroll", function () {
+          const scrollToTopButton = document.getElementById("scrollToTop");
+          const header = document.querySelector("header");
+          const headerHeight = header ? header.offsetHeight : 100;
+
+          if (window.pageYOffset > headerHeight) {
+            scrollToTopButton.classList.add("visible");
+          } else {
+            scrollToTopButton.classList.remove("visible");
+          }
+        });
+      }
+
+      function scrollToTop() {
+        window.scrollTo({
+          top: 0,
+          behavior: "smooth",
+        });
+      }
+
+      function initCopyButtons() {
+        const codeBlocks = document.querySelectorAll(".highlighter-rouge");
+
+        codeBlocks.forEach(function (block) {
+          const existingButtons = block.querySelectorAll(".copy-btn");
+          existingButtons.forEach((btn) => btn.remove());
+
+          const codeElement =
+            block.querySelector("pre code") || block.querySelector("code");
+          if (!codeElement) {
+            return;
+          }
+
+          const copyButton = document.createElement("button");
+          copyButton.className = "copy-btn";
+          copyButton.setAttribute("aria-label", "Copy code");
+          copyButton.innerHTML = `
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect>
+              <path d="M5 15H3a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v2"></path>
+            </svg>
+            Copy
+          `;
+
+          copyButton.addEventListener("click", function () {
+            copyCode(this);
+          });
+
+          if (getComputedStyle(block).position === "static") {
+            block.style.position = "relative";
+          }
+          block.appendChild(copyButton);
+        });
+      }
+
+      function copyCode(button) {
+        const codeBlock =
+          button.parentElement.querySelector("pre code") ||
+          button.parentElement.querySelector("code");
+        if (!codeBlock) return;
+
+        const text = codeBlock.textContent || codeBlock.innerText;
+
+        if (navigator.clipboard && window.isSecureContext) {
+          navigator.clipboard
+            .writeText(text)
+            .then(function () {
+              showCopySuccess(button);
+            })
+            .catch(function (err) {
+              console.error("Failed to copy text: ", err);
+              fallbackCopyTextToClipboard(text, button);
+            });
+        } else {
+          fallbackCopyTextToClipboard(text, button);
+        }
+      }
+
+      function fallbackCopyTextToClipboard(text, button) {
+        const textArea = document.createElement("textarea");
+        textArea.value = text;
+        textArea.style.position = "fixed";
+        textArea.style.left = "-999999px";
+        textArea.style.top = "-999999px";
+        document.body.appendChild(textArea);
+        textArea.focus();
+        textArea.select();
+
+        try {
+          const successful = document.execCommand("copy");
+          if (successful) {
+            showCopySuccess(button);
+          }
+        } catch (err) {
+          console.error("Fallback: Oops, unable to copy", err);
+        }
+
+        document.body.removeChild(textArea);
+      }
+
+      function showCopySuccess(button) {
+        const originalContent = button.innerHTML;
+        button.classList.add("copied");
+        button.innerHTML = `
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="20,6 9,17 4,12"></polyline>
+          </svg>
+          Copied!
+        `;
+
+        setTimeout(() => {
+          button.classList.remove("copied");
+          button.innerHTML = originalContent;
+        }, 2000);
+      }
+
+      function refreshCopyButtons() {
+        initCopyButtons();
+      }
+    </script>
   </body>
 </html>
