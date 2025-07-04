@@ -1,0 +1,251 @@
+/* CSS de Project Template Docs */
+
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&display=swap");
+
+:root {
+  --background: #23272a;
+  --text: #e8e6e3;
+  --primary: #fdb813;
+  --secondary: #ff9f43;
+  --tertiary: #6a737d;
+  --success: #00ff00;
+  --error: #ff0000;
+  --warning: #ffff00;
+  --info: #00bcd4;
+}
+
+body {
+  font-family: "JetBrains Mono", "SF Mono", "Monaco", "Inconsolata", "Fira Code",
+    "Droid Sans Mono", "Source Code Pro", monospace !important;
+  background-color: var(--background) !important;
+  color: var(--text) !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "JetBrains Mono", "SF Mono", "Monaco", "Inconsolata", "Fira Code",
+    "Droid Sans Mono", "Source Code Pro", monospace !important;
+  color: var(--primary) !important;
+  border-color: var(--tertiary) !important;
+}
+
+.markdown-body h1 {
+  border-bottom: 0px;
+}
+
+strong {
+  background: radial-gradient(var(--text), var(--secondary));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+}
+
+a {
+  color: var(--secondary) !important;
+  text-decoration: none !important;
+  transition: color 0.2s ease-in-out !important;
+}
+
+a:hover {
+  color: var(--primary) !important;
+}
+
+hr {
+  height: 0.3px !important;
+  background-color: var(--tertiary) !important;
+}
+
+table tr {
+  background-color: transparent !important;
+}
+
+code,
+pre,
+.highlight {
+  background-color: transparent !important;
+}
+
+pre {
+  padding: 10px !important;
+  border: 1px solid var(--tertiary) !important;
+  border-radius: 6px !important;
+}
+
+header {
+  margin-bottom: 1.5rem !important;
+}
+
+header hr {
+  height: 0.1rem !important;
+  margin-top: 10px !important;
+  opacity: 0.4 !important;
+}
+
+header nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+header nav > div:last-child {
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+header nav a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  text-decoration: none;
+  color: var(--secondary);
+  font-weight: 500;
+  padding: 0.5rem 1rem;
+  border: 0.5px solid var(--tertiary);
+  border-radius: 6px;
+  transition: all 0.2s ease;
+  min-width: fit-content;
+  text-align: center;
+}
+
+header nav a:hover {
+  color: var(--primary);
+  border-color: var(--primary);
+  box-shadow: 0 1px 3px 0 var(--primary);
+}
+
+header nav img,
+header nav svg {
+  flex-shrink: 0;
+}
+
+@media (max-width: 768px) {
+  header nav > div:last-child {
+    flex-direction: row;
+    gap: 0.5rem;
+  }
+
+  header nav a {
+    padding: 0.4rem 0.8rem;
+    font-size: 0.9rem;
+  }
+}
+
+footer {
+  text-align: center;
+  margin-top: 3rem;
+  padding: 1rem;
+  border-top: 1px solid var(--tertiary);
+}
+
+.scroll-to-top {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  width: 50px;
+  height: 50px;
+  background-color: var(--secondary);
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(20px);
+  transition: all 0.3s ease;
+  z-index: 1000;
+}
+
+.scroll-to-top:hover {
+  transform: translateY(0) scale(1.1);
+  box-shadow: 0 1px 5px var(--secondary);
+}
+
+.scroll-to-top.visible {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+@media (max-width: 768px) {
+  .scroll-to-top {
+    width: 45px;
+    height: 45px;
+    bottom: 20px;
+    right: 20px;
+  }
+}
+
+.language-bash.highlighter-rouge,
+.language-js.highlighter-rouge,
+.language-javascript.highlighter-rouge,
+.language-json.highlighter-rouge,
+.language-css.highlighter-rouge,
+.language-html.highlighter-rouge,
+.highlighter-rouge {
+  position: relative;
+}
+
+.copy-btn:not(:first-of-type) {
+  display: none !important;
+}
+
+.copy-btn {
+  color: var(--primary);
+  background-color: transparent;
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  border: 1px solid var(--tertiary);
+  border-radius: 6px;
+  padding: 6px 10px;
+  font-size: 12px;
+  font-weight: 500;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  transition: all 0.2s ease;
+  z-index: 100;
+  font-family: inherit;
+  backdrop-filter: blur(4px);
+  opacity: 0;
+  transform: translateY(-5px);
+  pointer-events: none;
+}
+
+.highlighter-rouge:hover .copy-btn {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+
+.copy-btn:hover {
+  transform: scale(1.05);
+}
+
+.copy-btn:active {
+  transform: scale(0.95);
+}
+
+.copy-btn.copied {
+  color: var(--success);
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+
+.copy-btn svg {
+  flex-shrink: 0;
+}

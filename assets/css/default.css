@@ -1,3 +1,5 @@
+/* Default CSS for GitHub Pages and Markdown */
+
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -158,6 +160,7 @@ button,
 html [type="button"],
 [type="reset"],
 [type="submit"] {
+  appearance: button;
   -webkit-appearance: button;
 }
 
@@ -207,6 +210,7 @@ textarea {
 }
 
 [type="search"] {
+  appearance: textfield;
   -webkit-appearance: textfield;
   outline-offset: -2px;
 }
@@ -6831,109 +6835,4 @@ pre {
 
 .highlight {
   background-color: #f8f8f8;
-}
-
-nav a img {
-  background: transparent !important;
-    filter: invert(90%) sepia(10%) saturate(500%) hue-rotate(180deg);
-}
-
-nav a {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.5em;
-  text-decoration: none;
-}
-
-/* --- Modo oscuro --- */
-body {
-  background-color: #23272a !important;
-  color: #e8e6e3 !important;
-}
-
-header,
-nav,
-main,
-footer {
-  background-color: #23272a !important;
-  color: #e8e6e3 !important;
-}
-
-a {
-  color: #8ab4f8 !important;
-}
-
-a:hover {
-  color: #a3d3ff !important;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  color: #fff !important;
-}
-
-code,
-pre,
-.highlight {
-  background-color: #22272e !important;
-  color: #d1d5da !important;
-}
-
-hr,
-.rule {
-  border-bottom: 1px solid #444c56 !important;
-}
-
-table {
-  background-color: transparent !important;
-  color: #e8e6e3 !important;
-}
-
-tr {
-  background-color: transparent !important;
-  border-color: #d1d5da !important;
-}
-
-tr:nth-child(2n) {
-  background-color: #b9bbbe !important;
-}
-
-th,
-td {
-  border-color: #d1d5da !important;
-}
-
-blockquote {
-  color: #b9bbbe !important;
-  border-left: 0.25em solid #444c56 !important;
-  background: #23272a !important;
-}
-
-input,
-textarea,
-select,
-button {
-  background-color: #23272a !important;
-  color: #e8e6e3 !important;
-  border-color: #444c56 !important;
-}
-
-::-webkit-input-placeholder {
-  color: #b9bbbe !important;
-}
-
-::-moz-placeholder {
-  color: #b9bbbe !important;
-}
-
-:-ms-input-placeholder {
-  color: #b9bbbe !important;
-}
-
-::placeholder {
-  color: #b9bbbe !important;
 }

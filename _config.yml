@@ -1,6 +1,8 @@
 title: Project Template Docs
 description: A base template to quickly and efficiently start software projects.
-repo_url: "https://github.com/sergio-ridaura/project-template"
+repository: https://github.com/sergio-ridaura/project-template
+author: Sergio Ridaura
+about: https://sergio-ridaura.github.io/sergio-ridaura/
 exclude:
   - .git
   - .github
