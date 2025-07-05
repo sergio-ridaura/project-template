@@ -70,6 +70,18 @@ pre,
   background-color: transparent !important;
 }
 
+.markdown-body code,
+.markdown-body tt {
+  position: revert;
+  padding: 0.2em 0.4em;
+  margin: 0;
+  font-size: 85%;
+  color: var(--primary) !important  ;
+  border: 0.5px solid var(--tertiary);
+  border-radius: 6px;
+  font-weight: 400;
+}
+
 pre {
   padding: 10px !important;
   border: 1px solid var(--tertiary) !important;
